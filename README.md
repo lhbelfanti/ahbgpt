@@ -19,7 +19,6 @@ The manual categorization of the tweets was done using [Binarizer](https://githu
 
 And finally, the corpus was created with [AHBCC](https://github.com/lhbelfanti/ahbcc).
 
-
 ## Set up & usage 
 
 ### Installation
@@ -53,12 +52,17 @@ And finally, the corpus was created with [AHBCC](https://github.com/lhbelfanti/a
     jupyter notebook 
     ```
 
-2. Open the notebook:
+2. Open any of the notebooks. For example:
     ```bash
-    ahb_gpt.ipynb
+    ahb_gpt-4o-mini-v1.ipynb
     ```
 
 3. Run all cells to reproduce the results.
+
+## Results
+[RESULTS.md](RESULTS.md) file contains the tests I was doing to answer the question
+
+> **Do the OpenAI models already know to classify if a tweet is talking about drug consumption AHB?**
 
 ---
 
