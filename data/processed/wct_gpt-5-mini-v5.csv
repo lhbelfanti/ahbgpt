@@ -1,0 +1,392 @@
+tweet_context,categorization,prediction
+"Autor del tweet: @newkrux
+Avatar del tweet: https://pbs.twimg.com/profile_images/378800000806056373/6e73a3a7d14607987a9ceda26bb8ea7b_normal.jpeg
+Texto del tweet: Alguien quiere un Porro?",POSITIVE,NEGATIVE
+"Autor del tweet: @wulkan_co
+Avatar del tweet: https://pbs.twimg.com/profile_images/651743678541787136/x4__pPrE_normal.jpg
+Texto del tweet: jumese un porro",POSITIVE,NEGATIVE
+"Autor del tweet: @Kainu1329
+Avatar del tweet: https://pbs.twimg.com/profile_images/1089578124508127232/oxFWcTpT_normal.jpg
+Texto del tweet: pensando que hace 10 años que no me fumo un porro... OMG, I'm outdated!!!",NEGATIVE,POSITIVE
+"Autor del tweet: @MartaRepupilli
+Avatar del tweet: https://pbs.twimg.com/profile_images/1116812443785867264/_hsO_YVq_normal.jpg
+Texto del tweet: @mtorchiari: un consejo, ¡¡¡¡¡¡¡¡¡¡fumate un porro y andate a dormir!!!!!!!!
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @Musaromana
+Avatar del tweet: https://pbs.twimg.com/profile_images/2337489730/5zq2yjd7nc5wtxz0s18j_normal.png
+Texto del tweet: ahora le voy a dar un porro para los nervios... relax es Yerba Antispyware",POSITIVE,NEGATIVE
+"Autor del tweet: @Hidalgo
+Avatar del tweet: https://pbs.twimg.com/profile_images/939551097382952960/GvCNIvT4_normal.jpg
+Texto del tweet: @fany tu tambien te has fumado un porro? No se de que me hablas :S
+Este tweet es una respuesta a otro tweet.",NEGATIVE,POSITIVE
+"Autor del tweet: @mikaelamattio
+Avatar del tweet: https://pbs.twimg.com/profile_images/1768094094486568960/MUDZnIA5_normal.jpg
+Texto del tweet: uuuu no culiau son parlucho, sabes lo que son parlucho y justo sin darme cuenta me toke la nariz, se miraron los dos y me dicen a si sabe, sabes como daria x tomarme una linea de merca con vo gringa, culia me hicieron kedar como una merquera en plena nuñez eso hijos d milgran put
+Este tweet es una respuesta a otro tweet.",NEGATIVE,POSITIVE
+"Autor del tweet: @imnotbadguy
+Avatar del tweet: https://pbs.twimg.com/profile_images/1384286147724017668/R4AZJSZg_normal.jpg
+Texto del tweet: Prefiero tomarme una línea de Antrax
+Este tweet es una respuesta a otro tweet.",NEGATIVE,POSITIVE
+"Autor del tweet: @laSraSmehizoGAY
+Avatar del tweet: https://pbs.twimg.com/profile_images/1304744759228076034/M4HKXor7_normal.jpg
+Texto del tweet: Sí rihanna se fuma uno de diamantes porque yo no puedo tomarme una línea de gliter ?
+Imágenes del tweet: https://pbs.twimg.com/media/BzhUsl2IgAALnX7?format=jpg&name=900x900",NEGATIVE,POSITIVE
+"Autor del tweet: @animartino
+Avatar del tweet: https://pbs.twimg.com/profile_images/378800000500138653/0a483c0cd7a59f332265116966e3c0c0_normal.jpeg
+Texto del tweet: @marianoefe a confesión de parte...<@marianoefe    Esto de madrugar no me gusta sin tomarme una línea siestita>",NEGATIVE,POSITIVE
+"Autor del tweet: @mariancarollo
+Avatar del tweet: https://pbs.twimg.com/profile_images/1777139482/011_normal.jpg
+Texto del tweet: @Bettlediego @Andrea21ok y yo que pensaba tomarme una linea con tus cenizas jaja
+Este tweet es una respuesta a otro tweet.",NEGATIVE,POSITIVE
+"Autor del tweet: @mauroormaechea
+Avatar del tweet: https://pbs.twimg.com/profile_images/1279799390127996928/1n_wie-B_normal.jpg
+Texto del tweet: @Aleejo_Martinez pensaba tomarme una linea de merca.. pero creo que el cafe tambien va a servir!
+Este tweet es una respuesta a otro tweet.",NEGATIVE,POSITIVE
+"Autor del tweet: @FacundoOses
+Avatar del tweet: https://pbs.twimg.com/profile_images/1849922074321489921/1hg_D1wJ_normal.jpg
+Texto del tweet: @Gonzarojoo no puedo mas boludo, necesito tomarme una linea porque sino no arranco",POSITIVE,NEGATIVE
+"Autor del tweet: @arimakaveli
+Avatar del tweet: https://pbs.twimg.com/profile_images/1613591131471712263/bXpogchG_normal.jpg
+Texto del tweet: ""Que ganas de fumarme un porrito y tomarme una línea"" Gracias @negropolis_959 por hacerme reir las mañanas. La suben...",NEGATIVE,POSITIVE
+"Autor del tweet: @cmatias_l
+Avatar del tweet: https://pbs.twimg.com/profile_images/1502116434977046531/lcZeykKV_normal.jpg
+Texto del tweet: Ale, yo lo escucho a feiman hablar contra el faso y me dan ganas de tomarme una linea de jabon en polvo.",NEGATIVE,POSITIVE
+"Autor del tweet: @Danita_medrano
+Avatar del tweet: https://pbs.twimg.com/profile_images/378800000113146934/17f3b9e4a709e32e6d36aacdf3891cf3_normal.jpeg
+Texto del tweet: UF QUE GANAS DE TOMARME UNA LINEA. AGUANTA BARRILETE. APAGAME EL CARTELITO QUE A MI NO ME INTERESA QUE TE DROGUES.",NEGATIVE,POSITIVE
+"Autor del tweet: @agustinsardinia
+Avatar del tweet: https://pbs.twimg.com/profile_images/1020674977287241729/buENlmgB_normal.jpg
+Texto del tweet: Me voy a fumar un Porro y tomarme una línea... 
+A travel rock le gusta esto.#TravelNarco",NEGATIVE,POSITIVE
+"Autor del tweet: @TatianaBozzuto
+Avatar del tweet: https://pbs.twimg.com/profile_images/463233731944120320/tQ6N_qAz_normal.jpeg
+Texto del tweet: hoy me dijeron...
+Sabe´cual e´mi sueño? mi sueño es tomarme una linea con una nari´como la tuya.
+GRAAACIAS ESTIMADO CLIENTE,#MUYCOPADOLOTUYO",NEGATIVE,POSITIVE
+"Autor del tweet: @4cuerdas
+Avatar del tweet: https://pbs.twimg.com/profile_images/1554163965730689024/oAskMphV_normal.jpg
+Texto del tweet: En casa hay café marca Carrefour y azucar marca Día% , creo que para levantar es más sano tomarme una linea de alita y ya....",NEGATIVE,POSITIVE
+"Autor del tweet: @gabi10_98
+Avatar del tweet: https://pbs.twimg.com/profile_images/1539975292378161153/-On0QLFM_normal.jpg
+Texto del tweet: Que ganas de tomarme una linea",POSITIVE,NEGATIVE
+"Autor del tweet: @roganaut
+Avatar del tweet: https://pbs.twimg.com/profile_images/1280693376090804224/NEbd4knI_normal.jpg
+Texto del tweet: Para despertarme un poco básicamente tendría que tomarme una línea de merca",NEGATIVE,POSITIVE
+"Autor del tweet: @DaichiEstrada
+Avatar del tweet: https://pbs.twimg.com/profile_images/1512646139367272449/IfB0z5Km_normal.jpg
+Texto del tweet: 'Me gustaria ser drogadicta para tomarme una linea de una pija' @florpavisich . como no estallarrrmeeeee jajajaja",NEGATIVE,POSITIVE
+"Autor del tweet: @NiqolasRB
+Avatar del tweet: https://pbs.twimg.com/profile_images/1703128927856734208/gqPc5X-W_normal.jpg
+Texto del tweet: Que ganas de tomarme una linea e ir al Obelisco a pedir la liberación de Moria.",POSITIVE,NEGATIVE
+"Autor del tweet: @PabloArias22
+Avatar del tweet: https://pbs.twimg.com/profile_images/1059623084339150848/W4yjClh6_normal.jpg
+Texto del tweet: Estoy despierto desde las 7 de la mañana y estoy bastante resfriado nose como mierda sigo despierto sin tomarme una linea",NEGATIVE,POSITIVE
+"Autor del tweet: @PauliSanchez12
+Avatar del tweet: https://pbs.twimg.com/profile_images/1695995373595066368/nnkA6RE2_normal.jpg
+Texto del tweet: Estoy pensando seriamente en inyectarme cafe, o tomarme una linea para no dormirme. Me mata el sueñooo 😖",NEGATIVE,POSITIVE
+"Autor del tweet: @Fabrii013
+Avatar del tweet: https://pbs.twimg.com/profile_images/840965806611660802/YlhOO9pk_normal.jpg
+Texto del tweet: Necesitaría tomarme una línea",POSITIVE,NEGATIVE
+"Autor del tweet: @LiaScheuermann
+Avatar del tweet: https://pbs.twimg.com/profile_images/1440287144057049096/VE7U72xM_normal.jpg
+Texto del tweet: Que ganas de tomarme una linea",POSITIVE,NEGATIVE
+"Autor del tweet: @AguusRau
+Avatar del tweet: https://pbs.twimg.com/profile_images/1492560065429180418/W78RH6Vs_normal.jpg
+Texto del tweet: ""quiero tomarme una línea entre tus tetas"" me parece un piropazo",NEGATIVE,POSITIVE
+"Autor del tweet: @ssstef4nia
+Avatar del tweet: https://pbs.twimg.com/profile_images/1868497210419097600/BqgCqA9q_normal.jpg
+Texto del tweet: -Tefi, ¿Viste 8 capítulos seguidos del puntero?
++Creo que quiero tomarme una linea con Lombardo",NEGATIVE,POSITIVE
+"Autor del tweet: @babestupid
+Avatar del tweet: https://pbs.twimg.com/profile_images/1574974260778397697/wRJlwsXC_normal.jpg
+Texto del tweet: no sabia ke ver y m vi obligada a tomarme una linea d merka",POSITIVE,NEGATIVE
+"Autor del tweet: @27__rama
+Avatar del tweet: https://pbs.twimg.com/profile_images/1840012863928156160/bm7-qLjG_normal.jpg
+Texto del tweet: tomarme una linea o no tomarme una linea esa es la pregunta que me hago todos los días",POSITIVE,NEGATIVE
+"Autor del tweet: @FranVidal98
+Avatar del tweet: https://pbs.twimg.com/profile_images/1484734835541397506/AHUfAKxT_normal.jpg
+Texto del tweet: Antes que tomarme la line E prefiero tomarme una linea de coca",NEGATIVE,POSITIVE
+"Autor del tweet: @chami_gonz
+Avatar del tweet: https://pbs.twimg.com/profile_images/1556432249272287232/4O_uuN6E_normal.jpg
+Texto del tweet: estaría necesitando tomarme una línea",POSITIVE,NEGATIVE
+"Autor del tweet: @georcavilla
+Avatar del tweet: https://pbs.twimg.com/profile_images/1240162847532945410/ZaIBhDqZ_normal.jpg
+Texto del tweet: A las 10 am ya tomé un latte, un expreso y estoy esperando un capuchino. Si sigo así, voy a tener que tomarme una línea para sobrevivir",NEGATIVE,POSITIVE
+"Autor del tweet: @Mcbrxne
+Avatar del tweet: https://pbs.twimg.com/profile_images/1839017521862610945/J7gv4-vL_normal.jpg
+Texto del tweet: Chicos estuve un mes y medio casi de Twitter. Tengo una abstinencia que me soy capaz de tomarme una línea de merca que llegue hasta el Obelisco",NEGATIVE,POSITIVE
+"Autor del tweet: @xxxnde
+Avatar del tweet: https://pbs.twimg.com/profile_images/1432782836550049793/muu-yND1_normal.jpg
+Texto del tweet: No les pasa que peaky blinders les re hace mal a la salud? Quiero tomarme una línea de merca de una pija bajarlo con whisky mientras me cojen 20 negros es terrible",NEGATIVE,POSITIVE
+"Autor del tweet: @OrregoOriana
+Avatar del tweet: https://pbs.twimg.com/profile_images/1782837429088460800/uuMLSvi0_normal.jpg
+Texto del tweet: “unas ganas de tomarme una línea en tu nalga ori” JAAJJAJA q hdp lcoooo",NEGATIVE,POSITIVE
+"Autor del tweet: @ShaiiBustos
+Avatar del tweet: https://pbs.twimg.com/profile_images/1749592702956474368/7ZdBVsBU_normal.jpg
+Texto del tweet: Entre dormir 20min o tomarme una linea",POSITIVE,NEGATIVE
+"Autor del tweet: @storinocande
+Avatar del tweet: https://pbs.twimg.com/profile_images/1719873216288555008/93AlwM3j_normal.jpg
+Texto del tweet: ""unas ganas de tomarme una linea en tu orto"" 
+
+Bueno tengo un iman d drogadictos o que",NEGATIVE,POSITIVE
+"Autor del tweet: @gordillaz
+Avatar del tweet: https://pbs.twimg.com/profile_images/1855780831282810880/H2AOJlS2_normal.jpg
+Texto del tweet: esa cantidad de azucar creo q tomarme una linea de merca es mas sano que una taza de ese té https:///iNabber69/status/1235614615964282881…",NEGATIVE,POSITIVE
+"Autor del tweet: @NehuenIdiart
+Avatar del tweet: https://pbs.twimg.com/profile_images/1855748698023587840/LWEN2fIi_normal.jpg
+Texto del tweet: muy temprano para tomarme una linea ?",POSITIVE,NEGATIVE
+"Autor del tweet: @abrilpralong
+Avatar del tweet: https://pbs.twimg.com/profile_images/1650979937614979073/rd8w28O1_normal.jpg
+Texto del tweet: m duelen tanto menstruar que en una d esas vi como solución tomarme una línea d pasti y estoy a )( d concretarlo",NEGATIVE,POSITIVE
+"Autor del tweet: @EstebanOlmedo2
+Avatar del tweet: https://pbs.twimg.com/profile_images/1613709035408064513/nDxmh99u_normal.jpg
+Texto del tweet: Entre el estudio para finales, consejo estudiantil y entregar tps al día, ni tomarme una línea me deja la uni",POSITIVE,NEGATIVE
+"Autor del tweet: @Anittsantoro
+Avatar del tweet: https://pbs.twimg.com/profile_images/1711651386763440128/x7FPdAP3_normal.jpg
+Texto del tweet: El día que tuve hoy mamita, anoche dormí 4 horas, arranque 8am laburando hasta las 7, metí 3 horas de ensayo, llegue a casa y me llamaron para un laburo y ahora estoy a 220 toda alterada corte no se si irme a dormir o tomarme una línea de merca ahre",NEGATIVE,POSITIVE
+"Autor del tweet: @TinchoLamadrid
+Avatar del tweet: https://pbs.twimg.com/profile_images/1809782251749842944/QHDXcFZu_normal.jpg
+Texto del tweet: TENGO LA COSTUMBRE DE TODOS LOS AÑOS DE TOMARME UNA LÍNEA ALENTANDO A BELGRANO 😍😍😍😍😍😍😍",POSITIVE,NEGATIVE
+"Autor del tweet: @ColitoCavs
+Avatar del tweet: https://pbs.twimg.com/profile_images/1776112739284324352/VxZs0Xh-_normal.jpg
+Texto del tweet: Que vida tan injusta 
+1 Porque mierda un mexicano sale con una argentina son todos feos
+2 me destruye la moral este patrón que se repite por años de que el drogadicto salga con la más linda, me dan ganas de dejar de ser un buen tipo a tomarme una línea
+Autor del tweet citado: @porktendencia
+Avatar del tweet citado: https://pbs.twimg.com/profile_images/1588208182865829888/w53ljX_I_mini.jpg
+Texto del tweet citado: ""Peso Pluma"" y ""Nicki Nicole"": 
+Porque se les vio juntos en Disneyland.
+Imágenes del tweet citado: https://pbs.twimg.com/media/F00OHRZaEAIu8vu?format=jpg&name=small",NEGATIVE,POSITIVE
+"Autor del tweet: @catqsimo
+Avatar del tweet: https://pbs.twimg.com/profile_images/1812881547160162304/JM-bCZ9I_normal.jpg
+Texto del tweet: existe un tema q me molesta d sobremanera y es por que tenemos tan romantizada la COCAINA‼️aca ven un artista haciendo muecas y bailando exageradamente y ya empiezan ay mi reyna de la falopaaa🤪🤪 q ganas de tomarme una linea d merca con ella🙈😂",NEGATIVE,POSITIVE
+"Autor del tweet: @azul_diamela
+Avatar del tweet: https://pbs.twimg.com/profile_images/1808974042713440256/ZKd6cxHd_normal.jpg
+Texto del tweet: Hace tantas horas que estamos escuchando Homero el mero mero que ya tengo ganas de andar en Punga , tomarme una línea de merca y salir a matar a alguien en una moto recién choreada 🤣",NEGATIVE,POSITIVE
+"Autor del tweet: @lulacastagnello
+Avatar del tweet: https://pbs.twimg.com/profile_images/1836218327863013376/fwO9klPy_normal.jpg
+Texto del tweet: Unas ganas de tomarme una línea de merca en esas tetas hermosas que tenes — El consumo de cocaina daña tu salud. Si tenes problemas con tu consumo llama al 141 desde la SEDRONAR estamos para ayudartr https:///post/1342559528…",NEGATIVE,POSITIVE
+"Autor del tweet: @lutnoviadejuan
+Avatar del tweet: https://pbs.twimg.com/profile_images/1859439526843744256/XK5hi27g_normal.jpg
+Texto del tweet: a veces me dan unas ganas de tomarme una línea y hablar de absolutamente todo para q alguien al menos me entienda en esta existencia pero a la misma vez seria lo mismo navajearme toda y tirarme por los acantilados",POSITIVE,NEGATIVE
+"Autor del tweet: @wtfistashadj
+Avatar del tweet: https://pbs.twimg.com/profile_images/1867270273117913088/AuOQhoNu_normal.jpg
+Texto del tweet: a nada de tomarme una linea",POSITIVE,NEGATIVE
+"Autor del tweet: @_SideShowBob
+Avatar del tweet: https://pbs.twimg.com/profile_images/632954320326119424/pJh0jI-F_normal.jpg
+Texto del tweet: Estas por tomar una linea y te invitan a comer
+Imágenes del tweet: https://pbs.twimg.com/media/CQbvEvEWsAAf11s?format=jpg&name=small",POSITIVE,NEGATIVE
+"Autor del tweet: @8Gastonn
+Avatar del tweet: https://pbs.twimg.com/profile_images/1585054752576086018/5ZDCm2H3_normal.jpg
+Texto del tweet: Por tomar una línea
+Imágenes del tweet: https://pbs.twimg.com/media/CSgkDdzWIAA3UP5?format=jpg&name=small",POSITIVE,NEGATIVE
+"Autor del tweet: @jbarragan____
+Avatar del tweet: https://pbs.twimg.com/profile_images/1509195666156765186/9YzdpKyc_normal.jpg
+Texto del tweet: @DAVIDLH142 si ya fue .. Yo le hice tomar una linea a la kani y esta re dura
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @CDV_carlitos
+Avatar del tweet: https://pbs.twimg.com/profile_images/1658548376835612677/MKy_UXJy_normal.jpg
+Texto del tweet: @NatachaJaitt .. Que hermosa espalda para tomar una linea cuenta como piropo ganador..#desubicado
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @tito_teves
+Avatar del tweet: https://pbs.twimg.com/profile_images/1768456624501411840/gc3Grvdv_normal.jpg
+Texto del tweet: @matuupiccirill me voy a tomar una linea y me djermo abrazo
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @ElKliment
+Avatar del tweet: https://pbs.twimg.com/profile_images/1789294344656007168/mvrm2p2f_normal.jpg
+Texto del tweet: @YamiOrtega3 Uy che me odias, voy a dejar la facultad y me voy a tomar una linea de merca y hacerme adicto para arruinar mi vida.
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @FacuBarua
+Avatar del tweet: https://pbs.twimg.com/profile_images/990992605197545477/N8AngPfL_normal.jpg
+Texto del tweet: vamos a tomar una linea y fue
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @tomasmoreyra6
+Avatar del tweet: https://pbs.twimg.com/profile_images/628019378764836868/q8ij3exX_normal.jpg
+Texto del tweet: se debe tomar una línea de merca
+Este tweet es una respuesta a otro tweet.",NEGATIVE,POSITIVE
+"Autor del tweet: @darielfarias_
+Avatar del tweet: https://pbs.twimg.com/profile_images/1863976516675100673/SfXT9PDB_normal.jpg
+Texto del tweet: Esta para tomar una línea con el Diego
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @jjooorge
+Avatar del tweet: https://pbs.twimg.com/profile_images/1510975853861249025/1jJNFZjo_normal.jpg
+Texto del tweet: el mundo seguira girando mientras tanto @jjoorrggee se ira a un parque de Cd.Satelite a fumar un porro de reyes. despues rosca @TiaAlma",POSITIVE,NEGATIVE
+"Autor del tweet: @pepa
+Avatar del tweet: https://pbs.twimg.com/profile_images/1858820876344418304/MqggCfTV_normal.jpg
+Texto del tweet: liándose un porro aquí la peña.",POSITIVE,NEGATIVE
+"Autor del tweet: @jhonycogollo
+Avatar del tweet: https://pbs.twimg.com/profile_images/441681361783369728/khkwLbZr_normal.png
+Texto del tweet: @ristroll fúmate un porro y relájate.",POSITIVE,NEGATIVE
+"Autor del tweet: @ucrania
+Avatar del tweet: https://pbs.twimg.com/profile_images/589188954215342080/p7g1S2zF_normal.jpg
+Texto del tweet: un día  voy a traer un porro al laburo y lo voy a fumar en el balcón en el que fuman tods. Lo peor es que seguro van a querer que les de",NEGATIVE,POSITIVE
+"Autor del tweet: @nachocorredor
+Avatar del tweet: https://pbs.twimg.com/profile_images/1780253206318137344/hbUM7g4t_normal.jpg
+Texto del tweet: Giddens: ""Todos en algún momento hemos robado algo, cogido una libreta del trabajo o fumado un porro. Sin embargo, no somos unos desviados""",NEGATIVE,POSITIVE
+"Autor del tweet: @kurayami_hime
+Avatar del tweet: https://pbs.twimg.com/profile_images/1471983762950934534/tJZ25Qtx_normal.jpg
+Texto del tweet: Tengo sueño y pocas ganas de estudiar. Tendría que tomarme un café... o inyectarme heroína en los globos oculares",NEGATIVE,POSITIVE
+"Autor del tweet: @_rochhilopez
+Avatar del tweet: https://pbs.twimg.com/profile_images/1604965852394278940/gBWrHkdZ_normal.jpg
+Texto del tweet: Te tenes que tomar una linea de merca ahora
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @luanalorenzini_
+Avatar del tweet: https://pbs.twimg.com/profile_images/1541832448237084672/ZZl1Ns2X_normal.jpg
+Texto del tweet: Vamos a tomar una línea
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @malditovecino
+Avatar del tweet: https://pbs.twimg.com/profile_images/73815800/Profanity_normal.JPG
+Texto del tweet: Mi Maldit@ Vecin@ esta fumandose un porro, y no lo quemo por drogadicto sino porque no me invitaaaaa",POSITIVE,NEGATIVE
+"Autor del tweet: @mairecnak
+Avatar del tweet: https://pbs.twimg.com/profile_images/1349620971062362113/6Pr0nLOL_normal.jpg
+Texto del tweet: @Jenkarret fuma un porro y duérmete, deja de pensar locuras
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @JennMartinezOr
+Avatar del tweet: https://pbs.twimg.com/profile_images/1254174520467959808/OH238b2i_normal.jpg
+Texto del tweet: Habiendo problemas tan graves... a quien le importa si yo me fumo un porro???",NEGATIVE,POSITIVE
+"Autor del tweet: @CrayolaDeUva
+Avatar del tweet: https://pbs.twimg.com/profile_images/1619399805549117440/hoCrJhZp_normal.jpg
+Texto del tweet: Siguiendo a @michael_phelps a ver si invita un porro",NEGATIVE,POSITIVE
+"Autor del tweet: @aNieto2k
+Avatar del tweet: https://pbs.twimg.com/profile_images/1795476290/IMG_52302_normal.jpg
+Texto del tweet: ""Entre bajada y bajada, me fumo un porro"" <--- Hacía tiempo que no veía el teledirario, pero han cambiado un poco ¿no?",NEGATIVE,POSITIVE
+"Autor del tweet: @TimeForPlanB
+Avatar del tweet: https://pbs.twimg.com/profile_images/552074616911310848/RrBKhmVT_normal.jpeg
+Texto del tweet: “Estás idiota guapa…¿me puedes pasar un porro por el patio sin que se entere la bollera de tu madre?""",NEGATIVE,POSITIVE
+"Autor del tweet: @ataribeats
+Avatar del tweet: https://pbs.twimg.com/profile_images/1357914463404457986/1twCbF1o_normal.jpg
+Texto del tweet: Whattt? el tipo que vino a arreglar las makinas se esta fumando un porro en el patio :O",POSITIVE,NEGATIVE
+"Autor del tweet: @gabeweb
+Avatar del tweet: https://pbs.twimg.com/profile_images/1819458582208724992/7QiUul_R_normal.jpg
+Texto del tweet: RT @malditovecino: Mi Maldit@ Vecin@ esta fumandose un porro, y no lo quemo por drogadicto sino porque no me invitaaaaa",POSITIVE,NEGATIVE
+"Autor del tweet: @ludomatic
+Avatar del tweet: https://pbs.twimg.com/profile_images/1768791812347498497/IAUh3PXV_normal.jpg
+Texto del tweet: @fedeaikawa Fumate un porro y después tomate 3 mates amargos y listo! :D
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @ClaireMandarina
+Avatar del tweet: https://pbs.twimg.com/profile_images/1773338427791978497/V_v7Ycku_normal.jpg
+Texto del tweet: @lucybeatles clavate un porro mejor",POSITIVE,NEGATIVE
+"Autor del tweet: @trastorillo
+Avatar del tweet: https://pbs.twimg.com/profile_images/414460901992189953/_l4Zr0e9_normal.jpeg
+Texto del tweet: Con francesca fumando un porro",POSITIVE,NEGATIVE
+"Autor del tweet: @Turint
+Avatar del tweet: https://pbs.twimg.com/profile_images/1840159474138353664/bV1HZnk2_normal.jpg
+Texto del tweet: @ErikaPao tu te emborrachas hasta privarte? pues te digo que es mucho mas saludable fumarse un porro que tomarse una de old parr",NEGATIVE,POSITIVE
+"Autor del tweet: @nichtgefund
+Avatar del tweet: https://pbs.twimg.com/profile_images/731715585130663936/AhNYVL7n_normal.jpg
+Texto del tweet: Buscando un porro que alguien perdió. Tsk tsk tsk.",NEGATIVE,POSITIVE
+"Autor del tweet: @MrKnucklesx
+Avatar del tweet: https://pbs.twimg.com/profile_images/1313218470969044994/RkHh-I58_normal.jpg
+Texto del tweet: @gh_rocks fumate un porro
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @Wikital
+Avatar del tweet: https://pbs.twimg.com/profile_images/1818168851/fotoPerfil_normal.jpg
+Texto del tweet: Cosas de Europa...Cada dia en mi clase de Diseño Web cuando dan el recreo un compañero de clase se fuma un porro de marihuana en la acera",POSITIVE,NEGATIVE
+"Autor del tweet: @pollitafrita
+Avatar del tweet: https://pbs.twimg.com/profile_images/1088041709492150272/1X284ORJ_normal.jpg
+Texto del tweet: por ahí dijeron esto:  quiero fumarme un porro del tamaño de obelisco de buenos aires , lo ame con todo mi corazón! jaja",NEGATIVE,POSITIVE
+"Autor del tweet: @kurayami_hime
+Avatar del tweet: https://pbs.twimg.com/profile_images/1471983762950934534/tJZ25Qtx_normal.jpg
+Texto del tweet: Un porro de caca vencido es más fumable que esta clase",NEGATIVE,POSITIVE
+"Autor del tweet: @ClaireMandarina
+Avatar del tweet: https://pbs.twimg.com/profile_images/1773338427791978497/V_v7Ycku_normal.jpg
+Texto del tweet: Permiso, me voy a armar un porro. Sí, ya sé que no es lo mejor con mi tos, pero vieron cómo es esto de la droga...  un vicio.",POSITIVE,NEGATIVE
+"Autor del tweet: @nocontesta
+Avatar del tweet: https://pbs.twimg.com/profile_images/1853449091897831425/yoK2xuY8_normal.jpg
+Texto del tweet: tengo un porro en el bolsillo #despenalizacion",NEGATIVE,POSITIVE
+"Autor del tweet: @navalov
+Avatar del tweet: https://pbs.twimg.com/profile_images/1186241533890179072/Btdaiwej_normal.jpg
+Texto del tweet: fumense un porro socios! #debateanatel",POSITIVE,NEGATIVE
+"Autor del tweet: @LosRichis
+Avatar del tweet: https://pbs.twimg.com/profile_images/707006565216358401/n_7vTFjG_normal.jpg
+Texto del tweet: Denunciarian a Calamaro por impulsar consumo de marihuana. Fumo un porro en publico (otra vez) y pide libre tenencia para uso personal.",NEGATIVE,POSITIVE
+"Autor del tweet: @gusqroo
+Avatar del tweet: https://pbs.twimg.com/profile_images/1241871351478132738/ght2E99s_normal.jpg
+Texto del tweet: Bob Marley - Satisfy My Soul: Musica para relajarse y fumarse un porro que ya es legal... jajaja!!!!! ♫ http://blip.fm/~cp3rf",NEGATIVE,POSITIVE
+"Autor del tweet: @soledadmartinez
+Avatar del tweet: https://pbs.twimg.com/profile_images/1810332219258347520/9IPaw2fm_normal.jpg
+Texto del tweet: RT @PabloMarolla: RT @lahamaca Basile: ""Me multaron por fumar un pucho, así que ahora me voy a fumar un porro del tamaño de un termotanq ...",NEGATIVE,POSITIVE
+"Autor del tweet: @Rcueid
+Avatar del tweet: https://pbs.twimg.com/profile_images/633466464771678208/JOhctsr9_normal.jpg
+Texto del tweet: RT @lahamaca Basile: ""Me multaron por fumar un pucho, así que ahora me voy a fumar un porro del tamaño de un termotanque"" http://is.gd/3gfXb",NEGATIVE,POSITIVE
+"Autor del tweet: @Rocksoniko
+Avatar del tweet: https://pbs.twimg.com/profile_images/1143622978967654400/96_FqqmJ_normal.png
+Texto del tweet: se podra hacer un interactivo de como armar un porro bien apretado???",NEGATIVE,POSITIVE
+"Autor del tweet: @ashelputoamo
+Avatar del tweet: https://pbs.twimg.com/profile_images/530971251/ash_normal.gif
+Texto del tweet: me piro a casa de deab qye necesiuta amior o un porro",POSITIVE,NEGATIVE
+"Autor del tweet: @g_2R
+Avatar del tweet: https://pbs.twimg.com/profile_images/430972936/perfil-06_normal.jpg
+Texto del tweet: @livita tengo ahora un mate y un porro",NEGATIVE,POSITIVE
+"Autor del tweet: @unyMoons
+Avatar del tweet: https://pbs.twimg.com/profile_images/588718721092472834/-bxGrOei_normal.png
+Texto del tweet: me dieron ganas de fumarme un porro XD ando viendo pineapple express, creo que a todos les pasa al ver esa peli XD",NEGATIVE,POSITIVE
+"Autor del tweet: @germancorredorp
+Avatar del tweet: https://pbs.twimg.com/profile_images/1866280321462714368/b19gnInZ_normal.jpg
+Texto del tweet: RT @programator: Me voy a disfrazar de Windows 2000: Feo, lento, pesado y me compro un porro para trabarme cada rato... :P JUAAAAAAA",NEGATIVE,POSITIVE
+"Autor del tweet: @DonPingarria
+Avatar del tweet: https://pbs.twimg.com/profile_images/1472938879019798529/BNpznGye_normal.jpg
+Texto del tweet: RT @sianaolivo: RT @programator: Me voy a disfrazar de Windows 2000: Feo, lento, pesado y me compro un porro para trabarme cada rato... :P",NEGATIVE,POSITIVE
+"Autor del tweet: @Sofia_25
+Avatar del tweet: https://pbs.twimg.com/profile_images/489271674307481600/9gVdXqbB_normal.jpeg
+Texto del tweet: chan! me fume un porro o me bajron los tweets .",NEGATIVE,POSITIVE
+"Autor del tweet: @ClaireMandarina
+Avatar del tweet: https://pbs.twimg.com/profile_images/1773338427791978497/V_v7Ycku_normal.jpg
+Texto del tweet: Boradcasting LIVE el armado de un porro por http://tinychat.com/bardo",POSITIVE,NEGATIVE
+"Autor del tweet: @Glezdlr
+Avatar del tweet: https://pbs.twimg.com/profile_images/1686451606265413643/IUsXdm_D_normal.jpg
+Texto del tweet: Que pasaria si me echara un porro y comenzara a escribir?.....De esos ya hay muchos",NEGATIVE,POSITIVE
+"Autor del tweet: @SoyOmarVital
+Avatar del tweet: https://pbs.twimg.com/profile_images/1565806568054161413/5E6oNcM-_normal.jpg
+Texto del tweet: @marcelotrevino Con un porro de marihuana todo se soluciona haha. saludos.
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @lamarihuana
+Avatar del tweet: https://pbs.twimg.com/profile_images/1125486553143365634/Lun0MlcW_normal.jpg
+Texto del tweet: (foro) AYUDA! Me pillaron con un porro de verde, dentro de un coche http://bit.ly/2trL9r",POSITIVE,NEGATIVE
+"Autor del tweet: @Oscar_Azacon
+Avatar del tweet: https://pbs.twimg.com/profile_images/756574086151737344/RTB1JORi_normal.jpg
+Texto del tweet: Plomoooo :) T @redrubylove: sera que un porro me mata con esta gripa? creo que me voy a arriesgar. que va!",POSITIVE,NEGATIVE
+"Autor del tweet: @_Gyermo
+Avatar del tweet: https://pbs.twimg.com/profile_images/571290017/BUHITO-9-Tw_normal.jpg
+Texto del tweet: ++☛ (<=>,_,<=>)    RT @atiliov: Voy a preparar un porro ^_^",POSITIVE,NEGATIVE
+"Autor del tweet: @ferendus
+Avatar del tweet: https://pbs.twimg.com/profile_images/1854085366590111744/7RHVhsxu_normal.jpg
+Texto del tweet: @Auberon39 como no sea con el espíritu santo XD que estoy más disponible que un perroflauta para un porro!",NEGATIVE,POSITIVE
+"Autor del tweet: @bettosupertramp
+Avatar del tweet: https://pbs.twimg.com/profile_images/1875702419838877696/lvIbulU6_normal.jpg
+Texto del tweet: @ChangoPerez  no haga corajes #myfriend encienda un porro y corralo #tuesdayweeds",POSITIVE,NEGATIVE
+"Autor del tweet: @angelelectricoo
+Avatar del tweet: https://pbs.twimg.com/profile_images/559727127994859523/6oQaZM4t_normal.jpeg
+Texto del tweet: @dosispersonal no, para eso solo hay cremita de trabajo limpio que mitiga el dolor o hay ociones más directas, un porro de hierbas frescas
+Este tweet es una respuesta a otro tweet.",POSITIVE,NEGATIVE
+"Autor del tweet: @smartfemme
+Avatar del tweet: https://pbs.twimg.com/profile_images/1420079426663067656/S9Yfuo7P_normal.jpg
+Texto del tweet: @therubbs Está impresionante el instrumento, yo quiero uno! Aunque pregunto, eso sí servirá para hacer un porro, bullerengue, sanjuanero? :P
+Este tweet es una respuesta a otro tweet.",NEGATIVE,POSITIVE
+"Autor del tweet: @pagestronic
+Avatar del tweet: https://pbs.twimg.com/profile_images/1390046217527349254/kLJbGTfe_normal.jpg
+Texto del tweet: Y que es esa mierda que si fumas usando mac no lo cubre la garatia?WTF esta noche uso el mio con un porro 3 papeles para que se acostumbreXD",NEGATIVE,POSITIVE
+"Autor del tweet: @Sofia_25
+Avatar del tweet: https://pbs.twimg.com/profile_images/489271674307481600/9gVdXqbB_normal.jpeg
+Texto del tweet: jja o me fume un porro o en una parte de Can´t have you parce que dincen i wanna fuking ?",NEGATIVE,POSITIVE
+"Autor del tweet: @Unhombreserio
+Avatar del tweet: https://pbs.twimg.com/profile_images/1262172750027862016/nGrC6f54_normal.jpg
+Texto del tweet: Pero dejen que H Potter se fume un porro tranqui, después enfrentar a Voldemort, yo tb me enrrolaría uno grosero",NEGATIVE,POSITIVE
+"Autor del tweet: @_El_Beatle
+Avatar del tweet: https://pbs.twimg.com/profile_images/378800000403671003/4804fe2f19d7b5969c4f0278ba0c4336_normal.jpeg
+Texto del tweet: @Kivilili jajaja que toda guate se entere deci jajaja, mejor te mando un porro asi volas mas y me sale mas barato jajajaja",NEGATIVE,POSITIVE
+"Autor del tweet: @Ariell730
+Avatar del tweet: https://pbs.twimg.com/profile_images/1053974841/avatar_normal.png
+Texto del tweet: Por Que Se Alarman Si Marilyn Monroe Se Fumo Un Porro ... Eso Es Medicina ... !!",POSITIVE,NEGATIVE
+"Autor del tweet: @gordxestridente
+Avatar del tweet: https://pbs.twimg.com/profile_images/1584954352237780994/74mGVGuE_normal.jpg
+Texto del tweet: @DaimyRain Esto es para titular ""Fumate un porro y divertite toda la noche!"" Es GENIAL",NEGATIVE,POSITIVE
+"Autor del tweet: @Ssiguenzar
+Avatar del tweet: https://pbs.twimg.com/profile_images/1347640450707034112/WP69EkGL_normal.jpg
+Texto del tweet: he perdido un follower ! dios! tendré q fumarme un porro para pasar el mal trago...",NEGATIVE,POSITIVE
+"Autor del tweet: @papawaca
+Avatar del tweet: https://pbs.twimg.com/profile_images/608653398729031680/9NavRgJo_normal.jpg
+Texto del tweet: no se si fumarme un porro.. o rezar... jaja",NEGATIVE,POSITIVE
+"Autor del tweet: @giuseppe_s
+Avatar del tweet: https://pbs.twimg.com/profile_images/1515357424286416906/fJvUbVcO_normal.jpg
+Texto del tweet: estoy pintando las puertas de mi casa... estoy casi que drogado con el olor... un porro de sto sería muy lucrativo... jajajajaja que dicen?",NEGATIVE,POSITIVE
