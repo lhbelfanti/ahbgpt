@@ -17,7 +17,7 @@ The tweets of the [corpus](data/raw/corpus.csv) were retrieved using [GoXCrap](h
 
 The manual categorization of the tweets was done using [Binarizer](https://github.com/lhbelfanti/binarizer).
 
-And finally, the corpus was created with [AHBCC](https://github.com/lhbelfanti/ahbcc).
+And finally, the corpus was created with [Corpus Creator](https://github.com/lhbelfanti/corpus-creator).
 
 ## Set up & usage 
 
