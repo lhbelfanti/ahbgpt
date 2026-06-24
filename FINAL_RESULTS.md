@@ -258,3 +258,38 @@ Definiciones:
 
 ---
 
+## Overall Summary — GPT-5.4-mini
+
+Both corpora contain **450 tweets (225 POSITIVE / 225 NEGATIVE)**. The model is tested with 5 prompt versions; Gemini 3.1 Pro results will be added once available.
+
+### raw-corpus
+
+| Version | Accuracy | POS Prec | POS Recall | POS F1 | NEG Prec | NEG Recall | NEG F1 | Wrong / 450 |
+|---------|----------|----------|------------|--------|----------|------------|--------|-------------|
+| v1 | 0.791 | 0.74 | 0.89 | 0.81 | 0.86 | 0.69 | 0.77 | 94 |
+| **v2** | **0.838** | **0.82** | **0.86** | **0.84** | **0.86** | **0.81** | **0.83** | **73** |
+| v3 | 0.804 | 0.84 | 0.75 | 0.79 | 0.77 | 0.86 | 0.82 | 88 |
+| v4 | 0.831 | 0.86 | 0.79 | 0.82 | 0.81 | 0.87 | 0.84 | 76 |
+| v5 | 0.731 | 0.83 | 0.58 | 0.68 | 0.68 | 0.88 | 0.77 | 121 |
+
+### pre-filtered-corpus
+
+| Version | Accuracy | POS Prec | POS Recall | POS F1 | NEG Prec | NEG Recall | NEG F1 | Wrong / 450 |
+|---------|----------|----------|------------|--------|----------|------------|--------|-------------|
+| v1 | 0.818 | 0.76 | 0.92 | 0.83 | 0.90 | 0.72 | 0.80 | 82 |
+| **v2** | **0.840** | **0.80** | **0.90** | **0.85** | **0.89** | **0.78** | **0.83** | **72** |
+| v3 | 0.709 | 0.88 | 0.48 | 0.62 | 0.64 | 0.93 | 0.76 | 131 |
+| v4 | 0.818 | 0.85 | 0.78 | 0.81 | 0.79 | 0.86 | 0.82 | 82 |
+| v5 | 0.769 | 0.84 | 0.67 | 0.74 | 0.72 | 0.87 | 0.79 | 104 |
+
+### Key findings
+
+- **v2 is the best prompt** on both corpora (highest accuracy, best balanced F1, fewest errors).
+- **v5 (hierarchical rules) performs worst** despite being the most elaborate — stricter rules cause excessive false negatives on POSITIVE tweets (low recall).
+- **Pre-filtered corpus slightly outperforms raw** across most versions, likely due to the removal of noisy or ambiguous tweets during the pre-filtering stage.
+- The dominant failure mode across all versions is **false negatives on POSITIVE tweets** — the model is more conservative than the human annotations.
+
+### Gemini 3.1 Pro
+
+> Results pending — to be filled manually via the `final_gemini-3.1-pro-v*.ipynb` notebooks.
+
