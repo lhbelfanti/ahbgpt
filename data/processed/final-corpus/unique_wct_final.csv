@@ -1,242 +1,431 @@
 corpus,text,label,miss_count
-pre-filtered-corpus,"""si queres vamos a fumar unas florcitas y tomar una raya"".. Me quiero ir, NECESITO irme",POSITIVE,1
-pre-filtered-corpus,+ de 48 horas sin poner un porro en mi boquita,POSITIVE,1
-pre-filtered-corpus,6 cafes me clave hoy. Voy a arrancar inyectarme heroina me va a hacer mejor.,NEGATIVE,1
-pre-filtered-corpus,Antes leía libros en un deía. Ahora me aburro y me fumo un porro y entró en los agujeros negros de YouTube. Tenía tantos sueños falsos para mi.,POSITIVE,1
-pre-filtered-corpus,"Armé un porro tan lindo, que me da pena quemarlo.",POSITIVE,1
-pre-filtered-corpus,"Arranco oficialmente mis vacaciones, me baño, me fumo un porro, me estoy durmiendo y meí perro ladra a lo que voy abrirle la puerta y veo como una rata viene corriendo desde la calle en dirección a meí.",POSITIVE,1
-pre-filtered-corpus,"Asco, me acuerdo cuando me estaban obligando a inyectarme heroína. Sucia esa. :s",POSITIVE,1
-pre-filtered-corpus,"Bueno, hay gente que es adicta al paco. Pero que quisiera tomar merca. En cualquier caso todo es falopa.",POSITIVE,1
-pre-filtered-corpus,Cada vez que escucho The Libertines me dan ganas de inyectarme heroína.,NEGATIVE,1
-pre-filtered-corpus,Compitas toy feliz porque me hice un porro del tamaño de mi dedo gordo y estoy a punto de fumarmelo ajajaj,POSITIVE,1
-pre-filtered-corpus,Creo que voy a dejar de inyectarme heroína. EN LA INGLE.,POSITIVE,1
-pre-filtered-corpus,"Cuando empiezas a toser, pero recuerdas que acabas de fumarte un porro.",POSITIVE,1
-pre-filtered-corpus,Cuántos deías van de cuarentena? Vengo fumando meás de un porro diario. Esta semana me propuse fumar uno en toda la semana . Arranque el domingo... Vengo bastante bien pero no sé si llego al domingo que viene 😁,POSITIVE,1
-pre-filtered-corpus,Del dolor de cintura que no me dejaba caminar me fume un porro y estoy casi como nueva. La [DISCRIMINACION] madre estas droga que nos corrompen y hacen tan mal!,POSITIVE,1
-pre-filtered-corpus,Denme malas razones para inyectarme heroína.,NEGATIVE,1
-pre-filtered-corpus,Desventajas de tener venas delgadas: no puedo inyectarme heroína porque me las reviento a la primera.,POSITIVE,1
-pre-filtered-corpus,"Di un final divino yo creída que había terminado me desconecto, clave musica flashe vacaciones me arranque un porro y a los 15 min (re loca) me dicen que tengo que dar defensa oral. Adivinen a quien le recomendaron volver en septiembre",POSITIVE,1
-pre-filtered-corpus,Dia 6 de cuarentena: make up para sacar a los perros y fumarme un porro 🙄,POSITIVE,1
-pre-filtered-corpus,Donde están mis amiguis cuando me quiero fumar un porro y tomar una birra🤔,POSITIVE,1
-pre-filtered-corpus,"El deía que tuve hoy mamita, anoche dormí 4 horas, arranque 8am laburando hasta las 7, metí 3 horas de ensayo, llegue a casa y me llamaron para un laburo y ahora estoy a 220 toda alterada corte no se si irme a dormir o tomarme una línea de merca ahre",NEGATIVE,1
-pre-filtered-corpus,"El discurso de [PERSONA] lo escribio [PERSONA] en mexico luego de darse 3 tequilazos 3 mezcalazos comer el gusanito y tomar una raya larga de merca, si no, no hay explicación de todo lo que esta diciendo",NEGATIVE,1
-pre-filtered-corpus,El inglés es muy de tomar merca cada 3-4 meses,NEGATIVE,1
-pre-filtered-corpus,"En esta pinche ciudad hasta estar triste estaba de huevos.. te ibas a caminar, fumar un porro en la calle viendo las luces sin que nadie te molestara, a perderte al bosque o a la playa y se te olvidaba tu problema 🥺",POSITIVE,1
-pre-filtered-corpus,Escucho Nirvana y me dan ganas de inyectarme heroína y darme la cabeza contra la pared ahre,NEGATIVE,1
-pre-filtered-corpus,"Esos propósitos de año nuevo van excelentes, llevo 5 deías sin cigarro y 4 sin inyectarme heroína :)",POSITIVE,1
-pre-filtered-corpus,"Estaba hablando con un amigo mientras lloraba y le decia que no me bancaba tener que encerrarme a las 18, llego a casa en 10 minutos con un porro y fuego.
-
-Adjunto pruebas de que tengo los mejores amigos del mundo.",POSITIVE,1
-pre-filtered-corpus,Fuck tengo un porro en la camioneta escondido pero olvide donde lo escondí,POSITIVE,1
-pre-filtered-corpus,Fue una mala semana para dejar de inyectarme heroína.,POSITIVE,1
-pre-filtered-corpus,"Fui a la tienda a comprarme un encendedor para prender mi porro y me dieron uno de un cristo redentor, será un porro bendecido.",POSITIVE,1
-pre-filtered-corpus,"Fumandome un porro que cultivó mi mamá, regresé a casa después de 6 meses de aislamiento y es la dicha del amor y este cielo que lo ve todo Afortunado 🥰",POSITIVE,1
-pre-filtered-corpus,"Fume un porro con mi mamá, esta siendo una buena navidad",POSITIVE,1
-pre-filtered-corpus,"Hace 16 años me fumaba un porro en la plaza de la vuelta de mi casa. Hoy también, pero ya no vivo por acá. Qué tiempos, no?",POSITIVE,1
-pre-filtered-corpus,Hay bandas como The Clash Sex Pistols Nirvana ... que no las puedo escuchar mucho tiempo seguido porque me dan ganas de inyectarme heroina,NEGATIVE,1
-pre-filtered-corpus,"Hoy después de muchos años desde que dejé me dieron muchas ganas de fumar un pucho.
-
-Bueno y ya que estamos tomar una raya también...",POSITIVE,1
-pre-filtered-corpus,Hoy me di cuenta de que me puedo auto-ligar el brazo izquierdo por si me dan ganas de inyectarme heroína.,POSITIVE,1
-pre-filtered-corpus,"Hoy me fume un porro con andré y me regreso a hace 3 o 4 años atrás, tqm hermanito❤️",POSITIVE,1
-pre-filtered-corpus,"La parte de la canción de Digimón que dice ""si tu lo deseas puedes volar"" me re incentiva a inyectarme heroína y a hacerme alto viaje yisus",NEGATIVE,1
-pre-filtered-corpus,Loco que te pasa ? vamos a tomar una linea 😂😂😂😂😂😂,POSITIVE,1
-pre-filtered-corpus,Mamá he visto a Whispers a los ojos y si no es mucho pedir ahora necesito inyectarme Heroína a diario para poder sacarmelo de la cabeza.,NEGATIVE,1
-pre-filtered-corpus,Me acabo de acordar que tengo un porro escondido debajo de mi cama,POSITIVE,1
-pre-filtered-corpus,Me fume un porro y quede ciego.,POSITIVE,1
-pre-filtered-corpus,Me he tenido que fumar un porro para digerir esto,POSITIVE,1
-pre-filtered-corpus,Me puedo tomar una raya también?,POSITIVE,1
-pre-filtered-corpus,Me voy a fumar un porro que va a tener que venir la grúa para levantarme después,POSITIVE,1
-pre-filtered-corpus,Me voy a fumar un porro. Esto me sobrepasa...,POSITIVE,1
-pre-filtered-corpus,Me voy a tomar una linea,POSITIVE,1
-pre-filtered-corpus,Me voy a tomar una raya de merca cada vez que entre a Twitter a ver si asi siento que alguien me sigue ...,POSITIVE,1
-pre-filtered-corpus,Mi hna se está fumando un porro en ese lugar de Ucrania [GROSERIA] como la envidio,POSITIVE,1
-pre-filtered-corpus,Mi mejor amiga se vino a fumar un porro y después me vine yo ✨✨✨✨✨✨✨✨✨✨,POSITIVE,1
-pre-filtered-corpus,Necesito dejar de inyectarme heroína.,POSITIVE,1
-pre-filtered-corpus,Necesito Éxtasis En Mi vida... Pero yaaaaaaa,NEGATIVE,1
-pre-filtered-corpus,Necesito éxtasis 24/7,NEGATIVE,1
-pre-filtered-corpus,Necesito éxtasis de Los Auténticos Decadentes!!,NEGATIVE,1
-pre-filtered-corpus,Necesito éxtasis de felicidad instantánea,NEGATIVE,1
-pre-filtered-corpus,Necesito éxtasis de futbol,NEGATIVE,1
-pre-filtered-corpus,Necesito éxtasis o mil abrazos a ver si logro organizar esta cochinada de trasteo.,NEGATIVE,1
-pre-filtered-corpus,"No sé que hacer, no si dormir, perder todo en el casino, limpiar, estar en la pc, inyectarme heroína, cocinar, NO SÉ.",NEGATIVE,1
-pre-filtered-corpus,"O a tomar una linea, fumar un puchito y tomar unos mates (?",POSITIVE,1
-pre-filtered-corpus,Porfavor hoy necesito extasis o algo de esta [DISCRIMINACION] literatura y lo peor es que no llevo ni 1 hora.,NEGATIVE,1
-pre-filtered-corpus,"Que feo es salir por Lanús, te queres tomar una línea de merca y te reconoce todo el mundo",POSITIVE,1
-pre-filtered-corpus,Rochi sigo esperando que me dejes tomar una línea entre [ANATOMIA] 😍,POSITIVE,1
-pre-filtered-corpus,"Saben que ayer me fume un porro con meí novia, y me dio ataque de risa épico.
-
-Decidimos documentarlo.",POSITIVE,1
-pre-filtered-corpus,Se hacen todas las drogadictas y ninguna se deja tomar una raya en [ANATOMIA],POSITIVE,1
-pre-filtered-corpus,"Se me ha mojado un porro y he pensado en meterlo en el.microondas, el resultado os.sorprendera",POSITIVE,1
-pre-filtered-corpus,Se me van las ganas de tomar una linea . Pero ni da volver a la misma,POSITIVE,1
-pre-filtered-corpus,"Siempre me cuesta dormirme, pero estas ultimas semanas es insoportable. Voy a empezar a inyectarme heroína, no se...",NEGATIVE,1
-pre-filtered-corpus,Tengo alergia en los brazos de inyectarme heroína pero bueno vio,POSITIVE,1
-pre-filtered-corpus,Tengo ganas de tomar una línea chocolatada..,NEGATIVE,1
-pre-filtered-corpus,Tomar una línea de merca en la pija de un [DISCRIMINACION] te hace gay?,POSITIVE,1
-pre-filtered-corpus,Un porro para la lluvia.,POSITIVE,1
-pre-filtered-corpus,Un porro y rap para esta noche fría.,POSITIVE,1
-pre-filtered-corpus,Unos que se quejan y lloran porque les sacan sangre y a mi que me encanta inyectarme heroína.,POSITIVE,1
-pre-filtered-corpus,Voy a empezar a inyectarme heroína haber si me alejo del Twitter.,NEGATIVE,1
-pre-filtered-corpus,Voy a hacer una crónica de inyectarme heroína en ácido.,POSITIVE,1
-pre-filtered-corpus,Voy a inyectarme heroína para sentirme una villana!,NEGATIVE,1
-pre-filtered-corpus,"Voy a tener que empezar a tomar merca, no puede ser que me duerma como los viejos en el sillón.",NEGATIVE,1
-pre-filtered-corpus,Ya no vuelvo a inyectarme heroína borracho. :(,POSITIVE,1
-pre-filtered-corpus,"Ya, ya tiré la jeringa, no vuelvo a inyectarme heroína. Ash",POSITIVE,1
-pre-filtered-corpus,Yo el finde quiero tomar una raya por el [PERSONA] por la [GROSERIA] y que el lunes se arranque una nueva sociedad Argentina,POSITIVE,1
-pre-filtered-corpus,Yo me fumo un porro y se me ocurre hacerme foticos 🍁🍁🍁,POSITIVE,1
-pre-filtered-corpus,anoche compré un porro y lo perdí. F,POSITIVE,1
-pre-filtered-corpus,apenas me levanté me fumé un porro y me tomé un vaso de coca ah y sigo sin comer. después me pregunto “por qué será que me baja la presión?” y mis defensas tipo:,POSITIVE,1
-pre-filtered-corpus,comprometerse en la adolescencia? Prefiero inyectarme heroina!,NEGATIVE,1
-pre-filtered-corpus,dormi todo el dia teniendo un monton de cosas de la facultad para hacer y estoy tomando vinito con un porro en la boca,POSITIVE,1
-pre-filtered-corpus,"escribi el ensayo, me fume un porro, me hice queso y pizza casera y tengo una birra en el freezer SOLA PARA MI",POSITIVE,1
-pre-filtered-corpus,esta para tomar una línea,POSITIVE,1
-pre-filtered-corpus,la mamá de mi mejor amiga sacó UN FRASCO DE FLORES y ahora estamos fumando un porro con ella,POSITIVE,1
-pre-filtered-corpus,me dieron ganas de inyectarme heroína y todo jajajaja joda chicos no me hagan caso,NEGATIVE,1
-pre-filtered-corpus,me fume un porro limpie toda mi casa y ahora reciclo jsja,POSITIVE,1
-pre-filtered-corpus,me he fumado un porro antes de salir de la cama después de ayer haber acabado por los suelos,POSITIVE,1
-pre-filtered-corpus,me he fumado un porro meás grande que mi cabeza y me estoy hartando a galletas y con este detalle que tanto os importa buenas noches (:,POSITIVE,1
-pre-filtered-corpus,me llego la tremenda necesidad de inyectarme heroina en forma de musica ...,NEGATIVE,1
-pre-filtered-corpus,me voy a tomar una linea desde tu abdomen,POSITIVE,1
-pre-filtered-corpus,me voy a tomar una línea así quedo bien dura😝,POSITIVE,1
-pre-filtered-corpus,no puedo inyectarme heroina por que mis venas no se ven :),POSITIVE,1
-pre-filtered-corpus,no quiero escuchar musica porque arranco con un tema bien arriba y termino escuchando temas que me hacen dar ganas de inyectarme heroína,NEGATIVE,1
-pre-filtered-corpus,"ola, ¿querés comerte unos buenos fideos con crema y después fumarte un porro conmigo?",POSITIVE,1
-pre-filtered-corpus,que ganas de inyectarme heroína y escuchar pink floyd como si estuviese en la película de trainspotting,NEGATIVE,1
-pre-filtered-corpus,storytime ayer casi quemo mi casa a las 3 de la mañana fumándome un porro en fin al final solo se quemó la bajera de la cama y un trozo de colchón y lo arreglé cambiando la bajera y guardando la quemada en una maleta para que no la vieran mis padres,POSITIVE,1
-pre-filtered-corpus,tomar una linea encima de tu foto,POSITIVE,1
-pre-filtered-corpus,"tomé un café tan fuerte, que para bajar me tuve que tomar una raya",POSITIVE,1
-pre-filtered-corpus,vamos a tomar una línea ya fue ya,POSITIVE,1
+raw-corpus,¿Hoy no se puede consumir? ¿Porque cohartan mi lbertad de inyectarme heroina? (?),NEGATIVE,5
+raw-corpus,"me gustaría inyectarme heroína, así veo todo re loco ajajajajajajajajajj",NEGATIVE,5
+pre-filtered-corpus,Cada vez que escucho The Libertines me dan ganas de inyectarme heroína.,NEGATIVE,5
+raw-corpus,como... otro semestre q no podre tomar merca!!!,POSITIVE,5
+raw-corpus,"tomar merca no te hace alto drogadicto, no voy a salir a vender a mi perro para ir a comprar q flashean",POSITIVE,5
+pre-filtered-corpus,"Bueno, hay gente que es adicta al paco. Pero que quisiera tomar merca. En cualquier caso todo es falopa.",POSITIVE,5
+pre-filtered-corpus,6 cafes me clave hoy. Voy a arrancar inyectarme heroina me va a hacer mejor.,NEGATIVE,5
+pre-filtered-corpus,"Se me ha mojado un porro y he pensado en meterlo en el.microondas, el resultado os.sorprendera",POSITIVE,5
+raw-corpus,"No tendría que hacer lo que hicieron mis ídolos, no tendría que inyectarme heroína para ""volar"" en el cielo.",POSITIVE,5
+raw-corpus,Nose si tomarme una línea o que me choque una bala,POSITIVE,5
+raw-corpus,"Quién carajo te crees q sos para terminar de tomar una línea, soltar el canuto y dejar q se desarme. Al rincón 10 minutos por hijo de puta.",POSITIVE,5
+raw-corpus,Necesito éxtasis en mi vida porque parecería que estuviese llena de suero.,NEGATIVE,5
+pre-filtered-corpus,Hay bandas como The Clash Sex Pistols Nirvana ... que no las puedo escuchar mucho tiempo seguido porque me dan ganas de inyectarme heroina,NEGATIVE,5
+pre-filtered-corpus,Fuck tengo un porro en la camioneta escondido pero olvide donde lo escondí,POSITIVE,5
+pre-filtered-corpus,Mamá he visto a Whispers a los ojos y si no es mucho pedir ahora necesito inyectarme Heroína a diario para poder sacarmelo de la cabeza.,NEGATIVE,5
+raw-corpus,"No le veo nada de malo a fumarse un porro, pero si a tomar una linea. Una es más heavy que la otra, no jodan.",POSITIVE,5
+pre-filtered-corpus,Hoy me di cuenta de que me puedo auto-ligar el brazo izquierdo por si me dan ganas de inyectarme heroína.,POSITIVE,5
+raw-corpus,Necesito éxtasis mental.,NEGATIVE,5
+raw-corpus,yo buscando mi fuego para prender un porro sin acordarme q mis amigos me lo comieron ayer,POSITIVE,5
+pre-filtered-corpus,"Ya, ya tiré la jeringa, no vuelvo a inyectarme heroína. Ash",POSITIVE,5
+pre-filtered-corpus,Ya no vuelvo a inyectarme heroína borracho. :(,POSITIVE,5
+pre-filtered-corpus,"yo prefiero inyectarme heroína caliente para emociones fuertes, pero voy a probar con eso, quien te dice... JAJAJAJAJAJA",NEGATIVE,5
+raw-corpus,47 ME VOY A FUMAR 200000 CAJAS DE CIGARROS Y A INYECTARME HEROINA HASTA QUE ME DE UNA SOBREDOSIS. Te amo,NEGATIVE,5
+raw-corpus,A.k.a Lizzy Grant me dan ganas de prostituirme en un pub barato e inyectarme heroína en una gasolinera,NEGATIVE,5
+raw-corpus,@MiguelRomero94  espero qe pa tu cumple hagas una fiesta porqe necesito extasis jajajaja,NEGATIVE,5
+raw-corpus,+ de 48 horas sin poner un porro en mi boquita,POSITIVE,5
+raw-corpus,#cuandomejubile voy a tomar merca para estar despierto hasta tarde...,POSITIVE,5
+raw-corpus,Central me da ganas de inyectarme heroína y escuchar el tema todo el viaje,NEGATIVE,5
+pre-filtered-corpus,no quiero escuchar musica porque arranco con un tema bien arriba y termino escuchando temas que me hacen dar ganas de inyectarme heroína,NEGATIVE,5
+raw-corpus,Arranque carmel e inyectarme heroina era más sano y menos adictivo,NEGATIVE,5
+pre-filtered-corpus,no puedo inyectarme heroina por que mis venas no se ven :),POSITIVE,5
+raw-corpus,dicen que somos libres pero de que libertad hablan? si me quiero fumar un porro y esta todo mal me quiero tomar una linea y todo mal,POSITIVE,5
+raw-corpus,"Viendo el stream de los Rolling Stones en el #121212concert. No es justo que estén mejor que yo, mañana empiezo a inyectarme heroína.",NEGATIVE,5
+pre-filtered-corpus,"Esos propósitos de año nuevo van excelentes, llevo 5 deías sin cigarro y 4 sin inyectarme heroína :)",POSITIVE,5
+pre-filtered-corpus,"Asco, me acuerdo cuando me estaban obligando a inyectarme heroína. Sucia esa. :s",POSITIVE,5
+raw-corpus,"Seguro no tenes ni 30 años, que pensas que eso es libertad por fumar un porro o tomar una raya, pero sabe que está todo planeado para control de masas..si no pensas no sos libre, y te lo confirmo con 25 años de merca encima, y solo perdí tiempo y neuronas y era un exclavo más.",POSITIVE,5
+pre-filtered-corpus,anoche compré un porro y lo perdí. F,POSITIVE,5
+pre-filtered-corpus,me dieron ganas de inyectarme heroína y todo jajajaja joda chicos no me hagan caso,NEGATIVE,5
+raw-corpus,"Con que tema de oktubre quieren cojer?  No entiendo yo solo lo usaba como pretexto para tomar una línea, un vaso de ginebra o alguna sustancia prohibida legalmente",POSITIVE,5
+raw-corpus,Evidentemente necesito EXTASIS. Urgente! ya! *arre que nunca la probó*,NEGATIVE,5
+pre-filtered-corpus,que ganas de inyectarme heroína y escuchar pink floyd como si estuviese en la película de trainspotting,NEGATIVE,5
+raw-corpus,Estoy jugando a un juego que me incentiva a inyectarme heroína Y NO EXAGERO AJAJAJAJA,NEGATIVE,5
+pre-filtered-corpus,me llego la tremenda necesidad de inyectarme heroina en forma de musica ...,NEGATIVE,5
+raw-corpus,"Fumo porro, palabras más palabras menos, desde que tengo 16. Y con intermitencia y períodos en los que no. Nunca se me hubiese ocurrido tomar una raya de la mogólica. Le tengo TERROR.",POSITIVE,5
+raw-corpus,"Xfavor las ganas de salir de joda que tengo, que amigos trolos que tengo ni a tomar una linea te invitan, nada divertido",POSITIVE,5
+raw-corpus,Tomar merca es como un energisante! M iria corriendo a lujan,POSITIVE,5
+pre-filtered-corpus,Escucho Nirvana y me dan ganas de inyectarme heroína y darme la cabeza contra la pared ahre,NEGATIVE,5
+pre-filtered-corpus,"Armé un porro tan lindo, que me da pena quemarlo.",POSITIVE,5
+raw-corpus,"a los 14 años empecé a inyectarme heroina y no paré hasta los 28. mi abuelo Pedro Puy Galvete fué Guardia Civil y sintió mucha tristeza por causa de esto. Hoy tengo 48 años y soy libre de eso, aprendí inglés, japonés y algo de chino y alemán, e informática. No Droga NO!",POSITIVE,5
+raw-corpus,Voy a inyectarme heroína para sentirme una villana!,NEGATIVE,5
+raw-corpus,Tomar una linea de 20 centimetros: 😃😍🌞🌞😁Hacerme el hisopado:😭😢🌩,POSITIVE,5
+pre-filtered-corpus,Voy a inyectarme heroína para sentirme una villana!,NEGATIVE,5
+raw-corpus,Me puse a escuchar jazz y de repente se me fue la vista y me dieron ganas de inyectarme heroína,NEGATIVE,5
+raw-corpus,Cuando esucho Joy Division me dan ganas de inyectarme heroina o entrarle a cualquier droga,NEGATIVE,5
+raw-corpus,Creo que me va a resultar más fácil inyectarme heroína a conseguir un novio.,NEGATIVE,5
+pre-filtered-corpus,Voy a empezar a inyectarme heroína haber si me alejo del Twitter.,NEGATIVE,5
+raw-corpus,Lo malo es que soy muy pobre como para poder inyectarme heroína.,POSITIVE,5
+pre-filtered-corpus,"Siempre me cuesta dormirme, pero estas ultimas semanas es insoportable. Voy a empezar a inyectarme heroína, no se...",NEGATIVE,5
+pre-filtered-corpus,No se si enamorarme o inyectarme heroína con la jeringa de un vagabundo.,NEGATIVE,4
+pre-filtered-corpus,47 ME VOY A FUMAR 200000 CAJAS DE CIGARROS Y A INYECTARME HEROINA HASTA QUE ME DE UNA SOBREDOSIS. Te amo,NEGATIVE,4
+pre-filtered-corpus,"No sé que hacer, no si dormir, perder todo en el casino, limpiar, estar en la pc, inyectarme heroína, cocinar, NO SÉ.",NEGATIVE,4
+raw-corpus,Quiero inyectarme heroína y me da miedo las agujas yahoo respuestas,NEGATIVE,4
+raw-corpus,No se si enamorarme o inyectarme heroína con la jeringa de un vagabundo.,NEGATIVE,4
+pre-filtered-corpus,Se hacen todas las drogadictas y ninguna se deja tomar una raya en [ANATOMIA],POSITIVE,4
+pre-filtered-corpus,Se me van las ganas de tomar una linea . Pero ni da volver a la misma,POSITIVE,4
+raw-corpus,No sé si Inyéctarme heroína o enamorarme. El chiste es terminar pendejo.,NEGATIVE,4
+raw-corpus,"tomé un café tan fuerte, que para bajar me tuve que tomar una raya",POSITIVE,4
+pre-filtered-corpus,Necesito éxtasis de futbol,NEGATIVE,4
+pre-filtered-corpus,Necesito éxtasis de Los Auténticos Decadentes!!,NEGATIVE,4
+pre-filtered-corpus,Necesito éxtasis o mil abrazos a ver si logro organizar esta cochinada de trasteo.,NEGATIVE,4
+pre-filtered-corpus,Necesito éxtasis 24/7,NEGATIVE,4
+raw-corpus,Tengo tantas ganas de abrir los libros como de inyectarme heroína en los ojos.,NEGATIVE,4
+pre-filtered-corpus,Necesito Éxtasis En Mi vida... Pero yaaaaaaa,NEGATIVE,4
+raw-corpus,papa me dice:voy salir un rato y le dije bueno dale quedate tranquiq solo voy a hacer una fiesta invitar muchos chicos e inyectarme heroína,NEGATIVE,4
+pre-filtered-corpus,Necesito éxtasis de felicidad instantánea,NEGATIVE,4
+raw-corpus,"@AltoBrian loco sos un gato, me acuerdo cuando nos juntabamos en lo de la isa a tomar merca, ya ni te juntas con nosotros bigote",POSITIVE,4
+pre-filtered-corpus,+ de 48 horas sin poner un porro en mi boquita,POSITIVE,4
+pre-filtered-corpus,"""si queres vamos a fumar unas florcitas y tomar una raya"".. Me quiero ir, NECESITO irme",POSITIVE,4
+raw-corpus,como odio los martes y tener q ir a esa clase de re mierda voy a tener q inyectarme heroina a las 9am todos los martes y jueves mas o menos,NEGATIVE,4
+pre-filtered-corpus,Me acabo de acordar que tengo un porro escondido debajo de mi cama,POSITIVE,4
+raw-corpus,ya ni un porro m calma,POSITIVE,4
+pre-filtered-corpus,"La parte de la canción de Digimón que dice ""si tu lo deseas puedes volar"" me re incentiva a inyectarme heroína y a hacerme alto viaje yisus",NEGATIVE,4
+raw-corpus,"No creía en el horóscopo, hasta que descubrí que soy del mismo signo de Stalin, y ahora se que es el destino.
+SOY DEL MISMO SIGNO DE STALIN. Me voy a volver re progre, inyectarme heroína en la UBA y bailar por las que no están.",NEGATIVE,4
+pre-filtered-corpus,"Voy a tener que empezar a tomar merca, no puede ser que me duerma como los viejos en el sillón.",NEGATIVE,4
+raw-corpus,"Lo más lindo de mi 2019 fue haber entendido que tomar merca me detiene la vida, a pesar de tener ganas de tomar todos los días puedo controlarlo aún cuando me toman en la cara💫",POSITIVE,4
+raw-corpus,Creo que inyectarme heroína es mas fácil que salir sonriendo en una foto.,NEGATIVE,4
+raw-corpus,Mi mamá me pidió que piense en mi futuro y abandone la marihuana. Me puse a pensar en mi futuro y me dieron ganas de inyectarme heroína.,NEGATIVE,4
+pre-filtered-corpus,Tomar una línea de merca en la pija de un [DISCRIMINACION] te hace gay?,POSITIVE,4
+pre-filtered-corpus,tomar una linea encima de tu foto,POSITIVE,4
+raw-corpus,#PorVos dejo de inyectarme heroína,POSITIVE,4
+raw-corpus,Encontré un porro que tengo que desde marzo en una lata. Todavía sirve?,POSITIVE,4
+pre-filtered-corpus,Yo el finde quiero tomar una raya por el [PERSONA] por la [GROSERIA] y que el lunes se arranque una nueva sociedad Argentina,POSITIVE,4
 pre-filtered-corpus,"yo no puedo creer que tengan 20 años y digan:
 
 -No che porque me levante temprano hoy tengo que dormir alguna siestita antes de la noche...
 
 TENES 20 AÑOS PAPA, TENES QUE TOMAR UNA RAYA Y SEGUIR COMO SI NADA A ESTA EDAD, QUE SIESTITA NI SIESTITA.
-QUERES IR A ANSES TAMBIEN?????",POSITIVE,1
-pre-filtered-corpus,"yo prefiero inyectarme heroína caliente para emociones fuertes, pero voy a probar con eso, quien te dice... JAJAJAJAJAJA",NEGATIVE,1
-raw-corpus,#PorVos dejo de inyectarme heroína,POSITIVE,1
-raw-corpus,#cuandomejubile voy a tomar merca para estar despierto hasta tarde...,POSITIVE,1
-raw-corpus,+ de 48 horas sin poner un porro en mi boquita,POSITIVE,1
-raw-corpus,47 ME VOY A FUMAR 200000 CAJAS DE CIGARROS Y A INYECTARME HEROINA HASTA QUE ME DE UNA SOBREDOSIS. Te amo,NEGATIVE,1
-raw-corpus,"@AltoBrian loco sos un gato, me acuerdo cuando nos juntabamos en lo de la isa a tomar merca, ya ni te juntas con nosotros bigote",POSITIVE,1
-raw-corpus,"@Eze_Mati7 JAJAJAJ siempre lo mismo loco! yo le digo no me filmes! y me filman, uno viene cansado del trabajo y no lo dejan tomar una linea!",POSITIVE,1
-raw-corpus,@MiguelRomero94  espero qe pa tu cumple hagas una fiesta porqe necesito extasis jajajaja,NEGATIVE,1
-raw-corpus,"@dosvelas_ me imagino que vamos a tomar una línea aunque sea, no?",POSITIVE,1
-raw-corpus,"@negromoreno de hecho yo tengo media bic para tomar merca, de las azules",POSITIVE,1
+QUERES IR A ANSES TAMBIEN?????",POSITIVE,4
+pre-filtered-corpus,"tomé un café tan fuerte, que para bajar me tuve que tomar una raya",POSITIVE,4
+raw-corpus,"@Eze_Mati7 JAJAJAJ siempre lo mismo loco! yo le digo no me filmes! y me filman, uno viene cansado del trabajo y no lo dejan tomar una linea!",POSITIVE,4
+raw-corpus,"@dosvelas_ me imagino que vamos a tomar una línea aunque sea, no?",POSITIVE,4
+raw-corpus,"@negromoreno de hecho yo tengo media bic para tomar merca, de las azules",POSITIVE,4
 raw-corpus,"A mí me dejaron sin nada x verme tomar una línea. Pero sabes qué? No me ayudaron. Me marginaron. Me echaron. Me dejaron sin nada.
 
-En ese vídeo no me vieron a mí. Se vieron ellos y eso les dio vergüenza. Hoy los mismos q haban d Chano son los q me dejaron sin nada por ""falopero"".",POSITIVE,1
-raw-corpus,A.k.a Lizzy Grant me dan ganas de prostituirme en un pub barato e inyectarme heroína en una gasolinera,NEGATIVE,1
-raw-corpus,Antes leía libros en un día. Ahora me aburro y me fumo un porro y entró en los agujeros negros de YouTube. Tenía tantos sueños falsos para mi.,POSITIVE,1
+En ese vídeo no me vieron a mí. Se vieron ellos y eso les dio vergüenza. Hoy los mismos q haban d Chano son los q me dejaron sin nada por ""falopero"".",POSITIVE,4
+raw-corpus,Me mueeeeeeeeero de sueño. Voy a tener que empezar a inyectarme heroína para tener más pilas... (?,NEGATIVE,4
+pre-filtered-corpus,Porfavor hoy necesito extasis o algo de esta [DISCRIMINACION] literatura y lo peor es que no llevo ni 1 hora.,NEGATIVE,4
+pre-filtered-corpus,Mi hna se está fumando un porro en ese lugar de Ucrania [GROSERIA] como la envidio,POSITIVE,4
+raw-corpus,Loco que te pasa ? Vamo a tomar una linea 😂😂😂😂😂😂,POSITIVE,4
+raw-corpus,ayer arme un porro hermoso,POSITIVE,4
+pre-filtered-corpus,"El deía que tuve hoy mamita, anoche dormí 4 horas, arranque 8am laburando hasta las 7, metí 3 horas de ensayo, llegue a casa y me llamaron para un laburo y ahora estoy a 220 toda alterada corte no se si irme a dormir o tomarme una línea de merca ahre",NEGATIVE,4
+raw-corpus,"http://Y7kOM… AGUANTEN LOS LEYES, cumbia santafesina para tomarme una linea de vez en cuando",POSITIVE,4
+pre-filtered-corpus,"Estaba hablando con un amigo mientras lloraba y le decia que no me bancaba tener que encerrarme a las 18, llego a casa en 10 minutos con un porro y fuego.
+
+Adjunto pruebas de que tengo los mejores amigos del mundo.",POSITIVE,3
+pre-filtered-corpus,"El discurso de [PERSONA] lo escribio [PERSONA] en mexico luego de darse 3 tequilazos 3 mezcalazos comer el gusanito y tomar una raya larga de merca, si no, no hay explicación de todo lo que esta diciendo",NEGATIVE,3
+raw-corpus,Cuando llegue me voy a tomar una linea. Ei cele para mi que nos compramos un re 25,POSITIVE,3
+raw-corpus,Juro que de tantas veces que vi Trainspotting ya me dan ganas de inyectarme heroína no sé ahora lo entiendo a Tommy.,NEGATIVE,3
+raw-corpus,"Me: *se retuerse en la cama del dolor de estómago*.
+
+Me tóxica: *piensa ""mientras más me duela menos comeré"" y se levanta a tomar una línea*.",POSITIVE,3
+pre-filtered-corpus,Ayer me vi trainspotting y me dieron ganas de inyectarme heroína nunca entiendo nada,NEGATIVE,3
+raw-corpus,Yo elegí inyectarme heroína pero nunca elegí ser un yonki,POSITIVE,3
+raw-corpus,"Voy a tener que empezar a tomar merca, no puede ser que me duerma como los viejos en el sillón.",NEGATIVE,3
+raw-corpus,"Que paja que sea tan inmadura, ta bien no se dio lo nuestro pero lo piola que es no se le va nunca y si el futuro daba juntarnos a fumar un porro-a tomar una línea o un buen ácido, lo disfrutaria porque es re piola. Pero pinta rencor xd",POSITIVE,3
+raw-corpus,"Podría decir que me agarró el bajón despues de un porro. Pero no no fumo, es solo que me quise hacer la que no cenaba y me dió terrible hambre",NEGATIVE,3
+pre-filtered-corpus,Fue una mala semana para dejar de inyectarme heroína.,POSITIVE,3
+pre-filtered-corpus,Creo que voy a dejar de inyectarme heroína. EN LA INGLE.,POSITIVE,3
+pre-filtered-corpus,"No creía en el horóscopo, hasta que descubrí que soy del mismo signo de Stalin, y ahora se que es el destino.
+SOY DEL MISMO SIGNO DE STALIN. Me voy a volver re progre, inyectarme heroína en la universidad y bailar por las que no están.",NEGATIVE,3
+pre-filtered-corpus,"O a tomar una linea, fumar un puchito y tomar unos mates (?",POSITIVE,3
+raw-corpus,Necesito Éxtasis... de felicidad..,NEGATIVE,3
+pre-filtered-corpus,Necesito éxtasis.,POSITIVE,3
+raw-corpus,"Quiero ingresar a la policía para tomar merca y flashearla con acción callejera. Yeahh,",POSITIVE,3
+raw-corpus,Que hacen cuando están en modo depre? Tomar merca sin limite alguno,POSITIVE,3
+pre-filtered-corpus,"yo estaba re anti pero no sé cómo terminé gritando los penales de hoy,, te amo [PERSONA] necesito éxtasis de mundiAL y felicidad",NEGATIVE,3
+raw-corpus,"Como la vez que un millonario inglés y sexagenario me dijo que me casara con él. ""Pero antes necesito saber si serías capaz de inyectarme heroína en el ojo""",NEGATIVE,3
+pre-filtered-corpus,Del dolor de cintura que no me dejaba caminar me fume un porro y estoy casi como nueva. La [DISCRIMINACION] madre estas droga que nos corrompen y hacen tan mal!,POSITIVE,3
+pre-filtered-corpus,Desventajas de tener venas delgadas: no puedo inyectarme heroína porque me las reviento a la primera.,POSITIVE,3
+pre-filtered-corpus,"si deja unas ganas de uno, que venga disfrazado de lo que quiera pero solo dispuesto a poner la cola para tomar una línea",POSITIVE,3
+raw-corpus,Esta para tomar una linea del tamaño de la escollera norte,POSITIVE,3
+raw-corpus,Escogí una mala temporada para dejar de inyectarme heroína,POSITIVE,3
+pre-filtered-corpus,storytime ayer casi quemo mi casa a las 3 de la mañana fumándome un porro en fin al final solo se quemó la bajera de la cama y un trozo de colchón y lo arreglé cambiando la bajera y guardando la quemada en una maleta para que no la vieran mis padres,POSITIVE,3
+pre-filtered-corpus,comprometerse en la adolescencia? Prefiero inyectarme heroina!,NEGATIVE,3
+pre-filtered-corpus,apenas me levanté me fumé un porro y me tomé un vaso de coca ah y sigo sin comer. después me pregunto “por qué será que me baja la presión?” y mis defensas tipo:,POSITIVE,3
+pre-filtered-corpus,esta para tomar una línea,POSITIVE,3
+pre-filtered-corpus,deía 4 de contractura fuerte en el cuello. La idea de inyectarme heroína cada vez suena menos descabellada.,NEGATIVE,3
+raw-corpus,"En Nueva York hoy los vacunados esperan en fila, pero para recibir un porro de marihuana. @EFEnoticias@EFEUSA https://2021/04/20/607f2f6121efa029398b459a.html…",NEGATIVE,3
+pre-filtered-corpus,Un porro y rap para esta noche fría.,POSITIVE,3
+pre-filtered-corpus,Tengo ganas de tomar una línea chocolatada..,NEGATIVE,3
+pre-filtered-corpus,Loco que te pasa ? vamos a tomar una linea 😂😂😂😂😂😂,POSITIVE,3
+raw-corpus,"No me puedo dormir, quien me manda a tomar merca berreta un....que dia es hoy?",POSITIVE,3
+pre-filtered-corpus,"Fui a la tienda a comprarme un encendedor para prender mi porro y me dieron uno de un cristo redentor, será un porro bendecido.",POSITIVE,3
+pre-filtered-corpus,Me voy a tomar una linea,POSITIVE,3
+pre-filtered-corpus,"Hoy después de muchos años desde que dejé me dieron muchas ganas de fumar un pucho.
+
+Bueno y ya que estamos tomar una raya también...",POSITIVE,3
+raw-corpus,Ta para tomar una línea del tamaño de una senda peatonal,POSITIVE,3
+pre-filtered-corpus,Necesito dejar de inyectarme heroína.,POSITIVE,3
+pre-filtered-corpus,Tengo alergia en los brazos de inyectarme heroína pero bueno vio,POSITIVE,3
+pre-filtered-corpus,"Que feo es salir por Lanús, te queres tomar una línea de merca y te reconoce todo el mundo",POSITIVE,3
+raw-corpus,Escuchar wish you were here es como inyectarme heroina... te eleva...,NEGATIVE,3
+pre-filtered-corpus,vamos a tomar una línea ya fue ya,POSITIVE,3
+pre-filtered-corpus,Unos que se quejan y lloran porque les sacan sangre y a mi que me encanta inyectarme heroína.,POSITIVE,3
+raw-corpus,Se salta el confinamiento para fumarse un PORRO en Vitoria https://nfinamiento-para-fumarse-un-porro-en-vitoria/…,NEGATIVE,2
+pre-filtered-corpus,Necesito éxtasis de felicidad.,NEGATIVE,2
+pre-filtered-corpus,Necesito éxtasis de chocolate by dolce incontro por favor ☹,NEGATIVE,2
+pre-filtered-corpus,"Me dicen por que escribo tanta pendejada, no lo se, como sano, hago ejercicio y duermo mis 8 horas después de inyectarme heroína, lo normal",NEGATIVE,2
+raw-corpus,Prefiero inyectarme heroína a tener que envenenar mi cuerpo con esa mierda que llaman Tang,NEGATIVE,2
+raw-corpus,Ire a fumar marihuana inyectarme heroina e ihnalar coca,POSITIVE,2
+raw-corpus,Hace años tuve una época decadente. Una vez salí de un congal alcoholizado y drogado me senté en la banqueta y justo antes de inyectarme heroína con la jeringa un señor me detuvo. Él me ayudó a recuperarme por completo y hoy soy alguien de bien. Ese hombre era José Antonio Meade.,POSITIVE,2
+raw-corpus,Soñé que me fumaba un porro con Robert Eggers en el baby shower de su hijo,NEGATIVE,2
+pre-filtered-corpus,Me voy a fumar un porro. Esto me sobrepasa...,POSITIVE,2
+pre-filtered-corpus,Me puedo tomar una raya también?,POSITIVE,2
+pre-filtered-corpus,"Me llegó un mail diciéndome que gané un millón de dolares y que para reclamarlos tengo que rellenar un formulario con datos.
+[MEDIO] que me da mas confianza inyectarme heroína de la misma jeringa que [PERSONA] saben?",NEGATIVE,2
+raw-corpus,Tengo ganas de tomar una línea chocolatada..,NEGATIVE,2
+pre-filtered-corpus,"Me voy a tomar una linea, ahi vengo.",POSITIVE,2
+raw-corpus,prefiero inyectarme heroína que comerme yogurt griego,NEGATIVE,2
+raw-corpus,tomar una linea encima de tu foto,POSITIVE,2
+pre-filtered-corpus,"Bueno a fumarme un porro y ir a dormir ahre decía eso, no niños fumar es malo nunca hagan eso",NEGATIVE,2
+pre-filtered-corpus,"-Mamá voy a salir a inyectarme heroína.
+-Hay hijo por fin estas empezando a dejar ese vicio del Twitter.",NEGATIVE,2
+raw-corpus,me quiero tomar una línea tan larga que tenga que tomar aire 3 veces ahr,POSITIVE,2
+raw-corpus,ya voy por la s6 de Mad Men y se están fumando un porro en Hawaii y yo acá ENCERRADO HASTA CUANDO A ALBERTO SE LE CANTE LAS PELOTAS,NEGATIVE,2
+raw-corpus,la noche se presta para tomarme una linea de la espalda de mi ex loco wyatyuuhhjbvvgggg,POSITIVE,2
+pre-filtered-corpus,Este fin no puedo tener ni un grado de alcohol en mi sangre. Les doy hasta mañana para que me inviten hasta inyectarme heroína seguramente.,NEGATIVE,2
+pre-filtered-corpus,Me he tenido que fumar un porro para digerir esto,POSITIVE,2
+pre-filtered-corpus,Me fume un porro y quede ciego.,POSITIVE,2
+pre-filtered-corpus,Unas ganas de tomarme una linea de 6 metros,POSITIVE,2
+pre-filtered-corpus,Voy a hacer una crónica de inyectarme heroína en ácido.,POSITIVE,2
+raw-corpus,Necesito 'Éxtasis' de Pablo Alborán urgente D:,NEGATIVE,2
+raw-corpus,"Mi novia no me quiere,  me he liado un porro me lo ha quitado y se lo ha enchufao, que malvada",POSITIVE,2
+raw-corpus,"Cuando empiezas a toser, pero recuerdas que acabas de fumarte un porro.",POSITIVE,2
+pre-filtered-corpus,alguno para tomar una linea,POSITIVE,2
+pre-filtered-corpus,"mi amiga quiere venir a estas horas a mi casa solo para fumarse un porro en mi ventana, por que en su casa no puede",NEGATIVE,2
+pre-filtered-corpus,necesito extasis y no hablo de la droga…,NEGATIVE,2
+raw-corpus,Cuando me den el diploma lo voy a enrollar y voy a tomarme una línea,POSITIVE,2
+pre-filtered-corpus,es un buen momento para tomarme una línea de coca noOOoooOOq que decia,NEGATIVE,2
+pre-filtered-corpus,el nivel de desesperada por un porro que manejo,POSITIVE,2
+pre-filtered-corpus,me voy a tomar una linea desde tu abdomen,POSITIVE,2
+pre-filtered-corpus,la mamá de mi mejor amiga sacó UN FRASCO DE FLORES y ahora estamos fumando un porro con ella,POSITIVE,2
+raw-corpus,"El día que tuve hoy mamita, anoche dormí 4 horas, arranque 8am laburando hasta las 7, metí 3 horas de ensayo, llegue a casa y me llamaron para un laburo y ahora estoy a 220 toda alterada corte no se si irme a dormir o tomarme una línea de merca ahre",NEGATIVE,2
+pre-filtered-corpus,Y entonces  en confesiones con el psicólogo le digo que quiero inyectarme heroína. Por supuesto los dos reímos a coro.,NEGATIVE,2
+pre-filtered-corpus,Yo me voy a tomar una linea,POSITIVE,2
+pre-filtered-corpus,Rochi sigo esperando que me dejes tomar una línea entre [ANATOMIA] 😍,POSITIVE,2
+pre-filtered-corpus,Se graban fumandose un porro 🤡,NEGATIVE,2
+raw-corpus,Antes leía libros en un día. Ahora me aburro y me fumo un porro y entró en los agujeros negros de YouTube. Tenía tantos sueños falsos para mi.,POSITIVE,2
+pre-filtered-corpus,regálenme un porro xfa,POSITIVE,2
+pre-filtered-corpus,quien para tomar una linea?,POSITIVE,2
+raw-corpus,A este fregasuelos le miras mal y te dedica una canción sobre lo falsa que eres mientras se lia un porro,NEGATIVE,2
+pre-filtered-corpus,nos vemos me voy a tomar una linea,POSITIVE,2
+raw-corpus,@lightbluejoji es un buen momento para tomarme una línea de coca noOOoooOOq q decia,NEGATIVE,2
+raw-corpus,"-Mama he decidido fumar marihuana,entrarle al perico e inyectarme heroina -    -Q bueno hijo, a ver si asi ya dejas l facebook... -",NEGATIVE,2
+raw-corpus,CERVEZ VODKA VINO BLANCO UN PORRO NOSE PERO NO PUEDO VIVIR ESTE DOLOR ESTANDO SOBRIA,POSITIVE,2
+pre-filtered-corpus,El inglés es muy de tomar merca cada 3-4 meses,NEGATIVE,2
+pre-filtered-corpus,Aceptaria tomarme una linea con tal de no dormirme en clase,POSITIVE,2
+pre-filtered-corpus,Donde están mis amiguis cuando me quiero fumar un porro y tomar una birra🤔,POSITIVE,2
+pre-filtered-corpus,Esta el día perfecto pa estar en una terrazita al fresquito leyendo un fizquito y con una copita vino blanco. y tomar una raya de coca,POSITIVE,2
+pre-filtered-corpus,Escuchar Pearl Jam es lo meás cerca que eh estado de inyectarme heroína.,NEGATIVE,2
+raw-corpus,cuando armo un porro y les digo que se lleven la tuca,POSITIVE,2
+raw-corpus,bueno not me pasandome cosas random vine a ver a un chongo y mientras fumabamos un porro LE DIO PARALISIS FACIAL le dejó de funcionar la mitad de la cara !?!!?!,POSITIVE,2
+raw-corpus,ando con ganas de tomar una linea de falopa en tu ojete.,POSITIVE,2
+pre-filtered-corpus,Al pibe le das de tomar una linea de merca y no te duerme una semana capaz jajajajaja,NEGATIVE,2
+pre-filtered-corpus,"Ahora, con o sin su permiso, voy a tomar una linea y meterme en la bañera. Nos vemos en las tapas de revista.",POSITIVE,2
+pre-filtered-corpus,Antes de ver tinelli prefiero inyectarme heroina en el [ANATOMIA],NEGATIVE,2
+raw-corpus,ahora cada vez q m hago un porro lloro,POSITIVE,2
+pre-filtered-corpus,Antes leía libros en un deía. Ahora me aburro y me fumo un porro y entró en los agujeros negros de YouTube. Tenía tantos sueños falsos para mi.,POSITIVE,1
+raw-corpus,"a mis 24 años descubri la Palta y no es un vicio que pueda mantener, inyectarme heroina me va a salir mucho mas barato.",NEGATIVE,1
+raw-corpus,ayer me fume un porro de prensado antes de dormir y mi vieja me mando esto JAJAJAJAAJjs que mujer,POSITIVE,1
+raw-corpus,"bno me ignoran, me voy a fumar un porro",POSITIVE,1
+raw-corpus,Voy a hacer una crónica de inyectarme heroína en ácido.,POSITIVE,1
+raw-corpus,Wally deja de tomar merca.,NEGATIVE,1
+raw-corpus,Y me levante otra vez a fumar y tomar una raya de whisky.,NEGATIVE,1
+raw-corpus,Ya después  de un porro y bailando esta rola en mi patio a estas horas,POSITIVE,1
+raw-corpus,Un porro pa la lluvia.,POSITIVE,1
+raw-corpus,"Un señor me dijo en nova:
+-capo donde para pegar unos tiki 
+Le pregunte
+-como ?
+Me dijo
+-para tomar una línea 
+Jajajaja wtf no sabía que se le decía así",NEGATIVE,1
+raw-corpus,Unas ganas de tomarme una linea de 6 metros,POSITIVE,1
+raw-corpus,Ustedes pueden creer que uno de los piojosos malbañaos estos acaba de prender un porro dentro del colectivo. Con aire acondicionado,NEGATIVE,1
+raw-corpus,Voy a dejar todas las drogas y vicios y voy a solamente inyectarme heroína en honor a Luca,POSITIVE,1
+raw-corpus,Si no m fumo un porro m fallezco,POSITIVE,1
+raw-corpus,"Soñé que los adultos actuaban como niños y los niños actuaban como adultos. Sí, tengo que dejar de inyectarme heroína. Ah no JAJAJAJAJAJAJAJ",NEGATIVE,1
+raw-corpus,"esta toda mi familia en casa,se me da por venir a fumarme un porro al patio y justo paso mi tío yuta me quede asi",POSITIVE,1
+raw-corpus,"la amigo Posta, voy a ir a fumar y tomar una línea nomás, pero escabiar nose, estoy re consumidoQUE",POSITIVE,1
+pre-filtered-corpus,"En esta pinche ciudad hasta estar triste estaba de huevos.. te ibas a caminar, fumar un porro en la calle viendo las luces sin que nadie te molestara, a perderte al bosque o a la playa y se te olvidaba tu problema 🥺",POSITIVE,1
+pre-filtered-corpus,Estas vacaciones voy a tomar merca hasta quedarme sin nariz,POSITIVE,1
+pre-filtered-corpus,"Este es el momento en el que me gustaría inyectarme heroína, porque me da miedo la oscuridad.",POSITIVE,1
+pre-filtered-corpus,Dia 6 de cuarentena: make up para sacar a los perros y fumarme un porro 🙄,POSITIVE,1
+pre-filtered-corpus,"El recuerdo que tengo de mi ""papa"" es de un hombre que jamas hizo nada por mi, que prefiere invitarme a tomar merca antes de darme 1000 pesos para comer. A si que hace un año y algo yo decidi no tener papa porq lo unico que sabe hacer es enrolar billetes para povearce la nariz",NEGATIVE,1
+pre-filtered-corpus,El vecino de abajo debe de estar fumándose un porro en la ventana y aquí estamos con ellas abiertas. Pucho está flipando lo meás grande 😅,NEGATIVE,1
+pre-filtered-corpus,En esa ventana siempre veo sombras. Que cagaso [INSULTO]. Un dia de estos voy a qedar dura y n por tomarme una linea.,NEGATIVE,1
+pre-filtered-corpus,"Cuando empiezas a toser, pero recuerdas que acabas de fumarte un porro.",POSITIVE,1
+pre-filtered-corpus,Cuando llegue me voy a tomar una linea. Ei cele para mi que nos compramos un re 25,POSITIVE,1
+pre-filtered-corpus,Cuántos deías van de cuarentena? Vengo fumando meás de un porro diario. Esta semana me propuse fumar uno en toda la semana . Arranque el domingo... Vengo bastante bien pero no sé si llego al domingo que viene 😁,POSITIVE,1
+pre-filtered-corpus,Debido a que mi catarro me impedirá ingerir cocaína hoy tendré que inyectárme heroína o fumar un poco de crack,POSITIVE,1
+pre-filtered-corpus,Denme malas razones para inyectarme heroína.,NEGATIVE,1
+pre-filtered-corpus,"Di un final divino yo creída que había terminado me desconecto, clave musica flashe vacaciones me arranque un porro y a los 15 min (re loca) me dicen que tengo que dar defensa oral. Adivinen a quien le recomendaron volver en septiembre",POSITIVE,1
+pre-filtered-corpus,necesito éxtasis,POSITIVE,1
+pre-filtered-corpus,no me puedo morir sin inyectarme heroina al menos una vez,POSITIVE,1
 raw-corpus,Aquí relax aventándome un porro y unos versos,POSITIVE,1
-raw-corpus,Arranque carmel e inyectarme heroina era más sano y menos adictivo,NEGATIVE,1
 raw-corpus,"Ay lo que echo de menos las tardes en el campo, al solecito con un porro entre las manos.",POSITIVE,1
 raw-corpus,"Ayer después de un par de birras, antes de acostarme decidí armarme un porro para ahorrarme armar el mañanero y lo único que voy a decir es: gracias uista del pasado",POSITIVE,1
-raw-corpus,CERVEZ VODKA VINO BLANCO UN PORRO NOSE PERO NO PUEDO VIVIR ESTE DOLOR ESTANDO SOBRIA,POSITIVE,1
-raw-corpus,Central me da ganas de inyectarme heroína y escuchar el tema todo el viaje,NEGATIVE,1
-raw-corpus,"Con que tema de oktubre quieren cojer?  No entiendo yo solo lo usaba como pretexto para tomar una línea, un vaso de ginebra o alguna sustancia prohibida legalmente",POSITIVE,1
-raw-corpus,Creo que inyectarme heroína es mas fácil que salir sonriendo en una foto.,NEGATIVE,1
-raw-corpus,Creo que me va a resultar más fácil inyectarme heroína a conseguir un novio.,NEGATIVE,1
-raw-corpus,"Cuando empiezas a toser, pero recuerdas que acabas de fumarte un porro.",POSITIVE,1
-raw-corpus,Cuando esucho Joy Division me dan ganas de inyectarme heroina o entrarle a cualquier droga,NEGATIVE,1
-raw-corpus,Cuando me den el diploma lo voy a enrollar y voy a tomarme una línea,POSITIVE,1
-raw-corpus,Después de fumarme un porro se me da por comerme cualquier fruta que encuentre cerca,POSITIVE,1
-raw-corpus,Echo de menos inyectarme heroína 😔🤟🏽,POSITIVE,1
-raw-corpus,"En Nueva York hoy los vacunados esperan en fila, pero para recibir un porro de marihuana. @EFEnoticias@EFEUSA https://2021/04/20/607f2f6121efa029398b459a.html…",NEGATIVE,1
-raw-corpus,Encontré un porro que tengo que desde marzo en una lata. Todavía sirve?,POSITIVE,1
-raw-corpus,Escogí una mala temporada para dejar de inyectarme heroína,POSITIVE,1
-raw-corpus,Escuchando Pink Floyd mientras término de inyectarme heroína.,POSITIVE,1
-raw-corpus,Esta para tomar una linea del tamaño de la escollera norte,POSITIVE,1
+raw-corpus,Bueeee! Me voy a tomar una línea de merca y me voy a dormir.,POSITIVE,1
+raw-corpus,"@IACaetano si pudiera tomar merca en la mesa sin q me echen , lo haria . . .",POSITIVE,1
+raw-corpus,@Kitsu_ufo si... ¿cómo puedo inyectarme heroína sin que mis padres se den cuenta?,POSITIVE,1
+pre-filtered-corpus,¿Tienes extasis? Necesito extasis:c,POSITIVE,1
+pre-filtered-corpus,—Mamá voy con mis amigos a inyectarme heroína —Pero ponte  suéter porque hace frío.,NEGATIVE,1
+pre-filtered-corpus,Y me voy con Mike a tomar merca. está mañana!,POSITIVE,1
+pre-filtered-corpus,"Ya tengo turnó para operarme la nariz cuando vuelva , tranqui antes me voy a tomar una línea de Keta como de 15 metros",POSITIVE,1
+pre-filtered-corpus,una compañera se acaba tomar una línea de merca en el recreo,NEGATIVE,1
+pre-filtered-corpus,unas ganas de tomar una raya de merca,POSITIVE,1
+pre-filtered-corpus,"uno me mandó un video de la nada de una bolsita de merca y me dice ""algún deía voy a tomarme una línea en tu [ANATOMIA]"" 😂",NEGATIVE,1
+pre-filtered-corpus,vamos a TOMAR MERCA,POSITIVE,1
+pre-filtered-corpus,que miedo la gente que se enamora despues de los 20 para mi esta edad solo existe para tomar merca,POSITIVE,1
+pre-filtered-corpus,tanto hablar de papa papa de aca papa de alla me dio ganas de tomarme una linea de merca  le quedo algo de la de garce?,POSITIVE,1
+pre-filtered-corpus,tengo dolor de cabeza y tengo que tomar merca alguien quiere mi lugar,POSITIVE,1
+pre-filtered-corpus,"ola, ¿querés comerte unos buenos fideos con crema y después fumarte un porro conmigo?",POSITIVE,1
+pre-filtered-corpus,que ganas de tomar merca,POSITIVE,1
+pre-filtered-corpus,que ganas de tomar merca loco,POSITIVE,1
+pre-filtered-corpus,que ganas de tomar una linea mas gande que la mesa,POSITIVE,1
+pre-filtered-corpus,que ganas de tomar una línea de merca,POSITIVE,1
+pre-filtered-corpus,que ganas de tomarme una linea tamaño chile,POSITIVE,1
+pre-filtered-corpus,que ganas de un porro loko,POSITIVE,1
+pre-filtered-corpus,me voy a tomar una línea así quedo bien dura😝,POSITIVE,1
+pre-filtered-corpus,"💣 [PERSONA], socio de [PERSONA], le ofreció fiestas sexuales con ""jóvenes británicos y asiáticos"" al jeque. También contó que le gustaba tomar una ""raya de cocaina"" de vez en cuando.",NEGATIVE,1
+raw-corpus,"""Me puse bonita para nuestra cita y solo me trajo a este cuarto lleno de mariwanos compartiendo un porro"" vibes",NEGATIVE,1
+raw-corpus,"""unas ganas de tomarme una linea en tu orto"" 
+
+Bueno tengo un iman d drogadictos o que",NEGATIVE,1
+raw-corpus,#CosasQueNoMeAtrevoAHacer inyectarme heroina,NEGATIVE,1
+raw-corpus,Estamos flipando. 4 tipos se acaban de hacer y tomar una raya en una mesa del McDonalds delante de un montón de niños,NEGATIVE,1
+raw-corpus,"Estoy decidiendo entre tirarme de un 8vo piso, o inyectarme heroína y morir de sobredosis como kurt, ok.",POSITIVE,1
 raw-corpus,Estoy en la playa con mi familia y todo brutal pero quiero un porro :(,POSITIVE,1
 raw-corpus,Estoy enojado porque no pude cortarme el cabello y feliz porque me estoy fumando un porro.,POSITIVE,1
-raw-corpus,Estoy jugando a un juego que me incentiva a inyectarme heroína Y NO EXAGERO AJAJAJAJA,NEGATIVE,1
-raw-corpus,Evidentemente necesito EXTASIS. Urgente! ya! *arre que nunca la probó*,NEGATIVE,1
 raw-corpus,"Extraño fumar mariguana, oler cocaína e inyectarme heroína :(",POSITIVE,1
 raw-corpus,"Fumar un porro el 25 de diciembre en las cataratas del Niagara con amigos después de un periodo muy triste y solo, me hacen agradecer y creer cada vez más en que el destino tiene un plan para todos y nunca hay que desesperarse, feliz navidad y año nuevo a todos ❤️  #NewProfilePic",POSITIVE,1
-raw-corpus,"Fumo porro, palabras más palabras menos, desde que tengo 16. Y con intermitencia y períodos en los que no. Nunca se me hubiese ocurrido tomar una raya de la mogólica. Le tengo TERROR.",POSITIVE,1
-raw-corpus,"Hace 16 años me fumaba un porro en la plaza de la vuelta de mi casa. Hoy también, pero ya no vivo por acá. Qué tiempos, no?",POSITIVE,1
-raw-corpus,Hace años tuve una época decadente. Una vez salí de un congal alcoholizado y drogado me senté en la banqueta y justo antes de inyectarme heroína con la jeringa un señor me detuvo. Él me ayudó a recuperarme por completo y hoy soy alguien de bien. Ese hombre era José Antonio Meade.,POSITIVE,1
-raw-corpus,"Hoy no tengo que laburar, entonces me levanté, me fume un porro y ahora estoy viendo un podcast de lolcito, tengo todos los chakras alineados",POSITIVE,1
-raw-corpus,Ire a fumar marihuana inyectarme heroina e ihnalar coca,POSITIVE,1
-raw-corpus,Le acabo de mandar un vídeo cantando todavía de la factoría a mí mejor amiga mientras me fumo un porro? Yes,POSITIVE,1
-raw-corpus,Lo malo es que soy muy pobre como para poder inyectarme heroína.,POSITIVE,1
-raw-corpus,"Lo más lindo de mi 2019 fue haber entendido que tomar merca me detiene la vida, a pesar de tener ganas de tomar todos los días puedo controlarlo aún cuando me toman en la cara💫",POSITIVE,1
-raw-corpus,Loco que te pasa ? Vamo a tomar una linea 😂😂😂😂😂😂,POSITIVE,1
+raw-corpus,Escuchando Pink Floyd mientras término de inyectarme heroína.,POSITIVE,1
+raw-corpus,Escucharte es como inyectarme heroína al mismo tiempo,NEGATIVE,1
+raw-corpus,Ese hombre se debe tomar una línea todos los días sino no se explica,NEGATIVE,1
+raw-corpus,"Cómo olvidar la vez en la que el escuadrón entró en la casa de Gran Hermano y nos echaron por que Baye se encendió un porro en la terraza, este es el país en el que vivimos 😔🤟🏻👎🏻😷🤮",NEGATIVE,1
+raw-corpus,Después de fumarme un porro se me da por comerme cualquier fruta que encuentre cerca,POSITIVE,1
+raw-corpus,Dormí una hora y pico de siesta y siento que dormí dos días seguidos ahora solo necesito tomarme una línea de keta,POSITIVE,1
+raw-corpus,"Dos por la calle.
+Una con guantes y mascarilla.
+La otra a pelo fumando un porro, que pasa a la primera.
+Esta se quita la mascarilla como Sánchez y fuma a pleno pulmón.",NEGATIVE,1
+raw-corpus,Déjame tomar una línea en tu abdomen,POSITIVE,1
+raw-corpus,Echo de menos inyectarme heroína 😔🤟🏽,POSITIVE,1
+raw-corpus,Como me gusta mirarle la cara al que llego del baño después de tomar una raya,NEGATIVE,1
+raw-corpus,Como todo sabanero me emociono cuando escucho un porro,NEGATIVE,1
+pre-filtered-corpus,Que ganas de tomarme una linea soy ruben,POSITIVE,1
+pre-filtered-corpus,Que ganas de tomarme una línea de keta como en drumcode  sigo pensando como sigo viva,POSITIVE,1
+pre-filtered-corpus,Que se siente fumar un porro ? o tomar una linea ?,NEGATIVE,1
+pre-filtered-corpus,Quiere tomar una linea dice ajajjaja para la calor,NEGATIVE,1
+pre-filtered-corpus,Quiero inyectarme heroína o inhalar cocaína.,POSITIVE,1
+pre-filtered-corpus,me fume un porro limpie toda mi casa y ahora reciclo jsja,POSITIVE,1
+pre-filtered-corpus,me he fumado un porro antes de salir de la cama después de ayer haber acabado por los suelos,POSITIVE,1
+pre-filtered-corpus,me he fumado un porro meás grande que mi cabeza y me estoy hartando a galletas y con este detalle que tanto os importa buenas noches (:,POSITIVE,1
+pre-filtered-corpus,me voy a tomar una linea y me duermo abrazo,POSITIVE,1
+pre-filtered-corpus,dormi todo el dia teniendo un monton de cosas de la facultad para hacer y estoy tomando vinito con un porro en la boca,POSITIVE,1
+pre-filtered-corpus,"escribi el ensayo, me fume un porro, me hice queso y pizza casera y tengo una birra en el freezer SOLA PARA MI",POSITIVE,1
+pre-filtered-corpus,está re lindo para tomar una linea de keta arriba de tu [ANATOMIA],POSITIVE,1
+pre-filtered-corpus,invítenmen un porro u__u,POSITIVE,1
+pre-filtered-corpus,Yo me fumo un porro y se me ocurre hacerme foticos 🍁🍁🍁,POSITIVE,1
+pre-filtered-corpus,[PERSONA] se fue a tomar una linea de merca y ahora vuelve..,NEGATIVE,1
+pre-filtered-corpus,como me encantaria tomar una linea de merca,POSITIVE,1
+pre-filtered-corpus,"Y Bueno me voy a tomar una linea, asi quedo re duro weeeee",POSITIVE,1
+raw-corpus,Menos mal me da por cocinar y comer y no por inyectarme heroína,NEGATIVE,1
+raw-corpus,"Mi cabeza esta tipo mañana es viernes FUMATE UN FASO,a quiero tomar una línea",POSITIVE,1
+raw-corpus,Mientras me tomaba esta foto no dejaba de cantar mentalmente “como todo sabanero me emociono cuando escucho un porro 🎶”,NEGATIVE,1
+raw-corpus,"Mientras que yo toy con un bebe que no para de llorar, mi jefa se ta fumando un porro afuera con la hermana",NEGATIVE,1
 raw-corpus,Me fumo un porro y me sale el chef de adentro,POSITIVE,1
 raw-corpus,Me fumé un porro antes de recibir una noticia horrenda toy así,POSITIVE,1
 raw-corpus,Me fumé un porro y un puchito para bajar un toke la ansiedad y ahora estoy más ansioso que antes,POSITIVE,1
-raw-corpus,Me mueeeeeeeeero de sueño. Voy a tener que empezar a inyectarme heroína para tener más pilas... (?,NEGATIVE,1
+raw-corpus,Me lastime la nariz de tanto tomar merca,POSITIVE,1
 raw-corpus,Me prendí un porro hace un rato y me acordé que a la noche tengo un partidito voy a caer así.,POSITIVE,1
-raw-corpus,Me puse a escuchar jazz y de repente se me fue la vista y me dieron ganas de inyectarme heroína,NEGATIVE,1
-raw-corpus,"Me: *se retuerse en la cama del dolor de estómago*.
+raw-corpus,La mujer que comete el accidente por imprudencia la dan un abrazo por parte de la madre de la víctima después de tomar una raya de coca !!!,NEGATIVE,1
+raw-corpus,"La ultima vez que fui, fue a despedir a mi abuela, hoy 12 años después volví y ver a la generación de mi abuela aun intacta, fue una forma de volver a sentir a mi viejita💗😇 #Laguneta donde escuchar un porro con la 19 de marzo es una delicia.",NEGATIVE,1
+raw-corpus,"Lauren conto que su experiencia al fumarse un porro con Snoop dog es como de otra galaxia ,me la imagino asi ayuda la amo",NEGATIVE,1
+raw-corpus,Le acabo de mandar un vídeo cantando todavía de la factoría a mí mejor amiga mientras me fumo un porro? Yes,POSITIVE,1
+raw-corpus,Literal hoy tuve que tomar una línea de falopa para no dormirme en la clase por pasar de largo,POSITIVE,1
+raw-corpus,Haberme dormido viendo Trainspotting me da como que tengo que inyectarme heroína.,NEGATIVE,1
+raw-corpus,"Hace 16 años me fumaba un porro en la plaza de la vuelta de mi casa. Hoy también, pero ya no vivo por acá. Qué tiempos, no?",POSITIVE,1
+pre-filtered-corpus,Me voy a tomar una raya de merca cada vez que entre a Twitter a ver si asi siento que alguien me sigue ...,POSITIVE,1
+pre-filtered-corpus,Me voy a tomar una raya para bajar un poco.,POSITIVE,1
+pre-filtered-corpus,"Mi mamá ( 80 años )invitó a una amiga a salir y fumarse un cigarrillo en el obelisco cuando todo esto termine.
+Su amiga retrucó que cigarrillo ? Un porro nos vamos a fumar! Que todavía tengo que le saque a mi hijo.",NEGATIVE,1
+pre-filtered-corpus,Mi mejor amiga se vino a fumar un porro y después me vine yo ✨✨✨✨✨✨✨✨✨✨,POSITIVE,1
+pre-filtered-corpus,Unas ganas de tomar merca,POSITIVE,1
+pre-filtered-corpus,Vamos te apaño pero necesito extasis para prender full xd,POSITIVE,1
+pre-filtered-corpus,Voy a colar pepa tomar merca y ahi de seguro me sienta bien!,POSITIVE,1
+pre-filtered-corpus,"Tomar merca, eso es lo que va",POSITIVE,1
+pre-filtered-corpus,Un [ANATOMIA] para tomar una línea de merca y estoy no pido meás,POSITIVE,1
+pre-filtered-corpus,Un porro para la lluvia.,POSITIVE,1
+pre-filtered-corpus,"Una vez iba rascandom en el boliche, un pibe me paró y me invitó p tomar una linea, le dije que yo no y dice ""callat que tenés cara de merquera""",NEGATIVE,1
+pre-filtered-corpus,"Saben que ayer me fume un porro con meí novia, y me dio ataque de risa épico.
 
-Me tóxica: *piensa ""mientras más me duela menos comeré"" y se levanta a tomar una línea*.",POSITIVE,1
-raw-corpus,"Mi cabeza esta tipo mañana es viernes FUMATE UN FASO,a quiero tomar una línea",POSITIVE,1
-raw-corpus,Mi mamá me pidió que piense en mi futuro y abandone la marihuana. Me puse a pensar en mi futuro y me dieron ganas de inyectarme heroína.,NEGATIVE,1
-raw-corpus,"Mi novia no me quiere,  me he liado un porro me lo ha quitado y se lo ha enchufao, que malvada",POSITIVE,1
-raw-corpus,Necesito 'Éxtasis' de Pablo Alborán urgente D:,NEGATIVE,1
-raw-corpus,Necesito esto y un porro,POSITIVE,1
-raw-corpus,Necesito Éxtasis... de felicidad..,NEGATIVE,1
-raw-corpus,Necesito éxtasis en mi vida porque parecería que estuviese llena de suero.,NEGATIVE,1
-raw-corpus,Necesito éxtasis mental.,NEGATIVE,1
-raw-corpus,No Hay nada como un Porro🚬 Apanado de keef 4:20 🍁Buenos Humos 💚💛❤️,POSITIVE,1
-raw-corpus,"No creía en el horóscopo, hasta que descubrí que soy del mismo signo de Stalin, y ahora se que es el destino.
-SOY DEL MISMO SIGNO DE STALIN. Me voy a volver re progre, inyectarme heroína en la UBA y bailar por las que no están.",NEGATIVE,1
-raw-corpus,"No le veo nada de malo a fumarse un porro, pero si a tomar una linea. Una es más heavy que la otra, no jodan.",POSITIVE,1
-raw-corpus,"No me puedo dormir, quien me manda a tomar merca berreta un....que dia es hoy?",POSITIVE,1
-raw-corpus,"No tendría que hacer lo que hicieron mis ídolos, no tendría que inyectarme heroína para ""volar"" en el cielo.",POSITIVE,1
-raw-corpus,Nose si tomarme una línea o que me choque una bala,POSITIVE,1
-raw-corpus,O voy a tomar y inyectarme heroina y jalar coca hasta que me muera de sobredosis,POSITIVE,1
+Decidimos documentarlo.",POSITIVE,1
+pre-filtered-corpus,Se va a tomar una linea!,NEGATIVE,1
+pre-filtered-corpus,Que ganas de tomarme una linea de 30 cm loco󾌧󾬑,POSITIVE,1
+raw-corpus,"Hoy no tengo que laburar, entonces me levanté, me fume un porro y ahora estoy viendo un podcast de lolcito, tengo todos los chakras alineados",POSITIVE,1
+raw-corpus,"Hoy, al volver de clase me he encontrado a mi madre fumándose un porro. Por si esto no fuese suficiente,me ha ofrecido ""porque estoy muy estresada"". Tengo 16 años y estoy en plena sesión de exámen... https://",NEGATIVE,1
+raw-corpus,"Inyectarme heroína seria mejor que tener que ""inyectarme"" esto",NEGATIVE,1
+raw-corpus,"Se acuerdan que hubo un tiempo que se usaba a este men como meme ""sad"", cuántos sabían que el man estaba re feliz por qué estaba fumando un porro de la más fina?",NEGATIVE,1
+raw-corpus,"Se murió de una sobre dosis, por tomar una linea de merca con 95% de pureza #DeLaBuena",NEGATIVE,1
+raw-corpus,Por fin me identifico con alguien.... nota mental nunca inyectarme heroína!!!!,NEGATIVE,1
 raw-corpus,Primero un porro luego a estudiar 🍓,POSITIVE,1
 raw-corpus,"Prueben comer mandarinas después de fumar un porro, no saben de lo que se están perdiendo 💚",POSITIVE,1
 raw-corpus,Pues alv mejor me armo un porro.,POSITIVE,1
 raw-corpus,Que ganas de tomar una linea de merca apoyada en la chota parada de Messi,POSITIVE,1
 raw-corpus,Que ganas de tomar una línea de merca de la chota de un negro,POSITIVE,1
-raw-corpus,Que hacen cuando están en modo depre? Tomar merca sin limite alguno,POSITIVE,1
-raw-corpus,"Que paja que sea tan inmadura, ta bien no se dio lo nuestro pero lo piola que es no se le va nunca y si el futuro daba juntarnos a fumar un porro-a tomar una línea o un buen ácido, lo disfrutaria porque es re piola. Pero pinta rencor xd",POSITIVE,1
-raw-corpus,"Quiero ingresar a la policía para tomar merca y flashearla con acción callejera. Yeahh,",POSITIVE,1
-raw-corpus,"Quién carajo te crees q sos para terminar de tomar una línea, soltar el canuto y dejar q se desarme. Al rincón 10 minutos por hijo de puta.",POSITIVE,1
-raw-corpus,"Seguro no tenes ni 30 años, que pensas que eso es libertad por fumar un porro o tomar una raya, pero sabe que está todo planeado para control de masas..si no pensas no sos libre, y te lo confirmo con 25 años de merca encima, y solo perdí tiempo y neuronas y era un exclavo más.",POSITIVE,1
-raw-corpus,Si no m fumo un porro m fallezco,POSITIVE,1
-raw-corpus,Ta para tomar una línea del tamaño de una senda peatonal,POSITIVE,1
-raw-corpus,Tomar merca es como un energisante! M iria corriendo a lujan,POSITIVE,1
-raw-corpus,Tomar una linea de 20 centimetros: 😃😍🌞🌞😁Hacerme el hisopado:😭😢🌩,POSITIVE,1
-raw-corpus,Un porro pa la lluvia.,POSITIVE,1
-raw-corpus,"Viendo el stream de los Rolling Stones en el #121212concert. No es justo que estén mejor que yo, mañana empiezo a inyectarme heroína.",NEGATIVE,1
-raw-corpus,Voy a hacer una crónica de inyectarme heroína en ácido.,POSITIVE,1
-raw-corpus,Voy a inyectarme heroína para sentirme una villana!,NEGATIVE,1
-raw-corpus,"Voy a tener que empezar a tomar merca, no puede ser que me duerma como los viejos en el sillón.",NEGATIVE,1
-raw-corpus,"Xfavor las ganas de salir de joda que tengo, que amigos trolos que tengo ni a tomar una linea te invitan, nada divertido",POSITIVE,1
-raw-corpus,Ya después  de un porro y bailando esta rola en mi patio a estas horas,POSITIVE,1
-raw-corpus,Yo elegí inyectarme heroína pero nunca elegí ser un yonki,POSITIVE,1
-raw-corpus,"a los 14 años empecé a inyectarme heroina y no paré hasta los 28. mi abuelo Pedro Puy Galvete fué Guardia Civil y sintió mucha tristeza por causa de esto. Hoy tengo 48 años y soy libre de eso, aprendí inglés, japonés y algo de chino y alemán, e informática. No Droga NO!",POSITIVE,1
-raw-corpus,ahora cada vez q m hago un porro lloro,POSITIVE,1
-raw-corpus,ando con ganas de tomar una linea de falopa en tu ojete.,POSITIVE,1
-raw-corpus,ayer arme un porro hermoso,POSITIVE,1
-raw-corpus,ayer me fume un porro de prensado antes de dormir y mi vieja me mando esto JAJAJAJAAJjs que mujer,POSITIVE,1
-raw-corpus,"bno me ignoran, me voy a fumar un porro",POSITIVE,1
-raw-corpus,bueno not me pasandome cosas random vine a ver a un chongo y mientras fumabamos un porro LE DIO PARALISIS FACIAL le dejó de funcionar la mitad de la cara !?!!?!,POSITIVE,1
-raw-corpus,cada vez que escucho slide away de Miley me hace acordar cuando nos fumamos un porro cada uno con Pau escuchando este tema en loop tirados en la cama,POSITIVE,1
-raw-corpus,como odio los martes y tener q ir a esa clase de re mierda voy a tener q inyectarme heroina a las 9am todos los martes y jueves mas o menos,NEGATIVE,1
-raw-corpus,como... otro semestre q no podre tomar merca!!!,POSITIVE,1
-raw-corpus,cuando armo un porro y les digo que se lleven la tuca,POSITIVE,1
-raw-corpus,dicen que somos libres pero de que libertad hablan? si me quiero fumar un porro y esta todo mal me quiero tomar una linea y todo mal,POSITIVE,1
-raw-corpus,"esta toda mi familia en casa,se me da por venir a fumarme un porro al patio y justo paso mi tío yuta me quede asi",POSITIVE,1
-raw-corpus,"http://Y7kOM… AGUANTEN LOS LEYES, cumbia santafesina para tomarme una linea de vez en cuando",POSITIVE,1
-raw-corpus,"la amigo Posta, voy a ir a fumar y tomar una línea nomás, pero escabiar nose, estoy re consumidoQUE",POSITIVE,1
+raw-corpus,Nose si irme a desayunar o a tomar una línea de keta gg,POSITIVE,1
+raw-corpus,O voy a tomar y inyectarme heroina y jalar coca hasta que me muera de sobredosis,POSITIVE,1
+raw-corpus,Para colmo escuchar las charlas recapacitadoras de mi vieja y mi hno. Entiendo q me quieren. Pero a mí quien carajo me entiende? Me voy a tomar una raya,POSITIVE,1
+raw-corpus,Necesito esto y un porro,POSITIVE,1
+pre-filtered-corpus,"Fumandome un porro que cultivó mi mamá, regresé a casa después de 6 meses de aislamiento y es la dicha del amor y este cielo que lo ve todo Afortunado 🥰",POSITIVE,1
+pre-filtered-corpus,"Fume un porro con mi mamá, esta siendo una buena navidad",POSITIVE,1
+pre-filtered-corpus,"Gripe de [GROSERIA], me lloran los ojos y me cae agua del naso, me voy a tener que tomar una linea para que se me pase bue",POSITIVE,1
+pre-filtered-corpus,"Hace 16 años me fumaba un porro en la plaza de la vuelta de mi casa. Hoy también, pero ya no vivo por acá. Qué tiempos, no?",POSITIVE,1
+pre-filtered-corpus,"Necesito éxtasis, quiero estar euforica",POSITIVE,1
+pre-filtered-corpus,Necesito éxtasis.. Ya que el dolor de cabeza no se me quita con nada!,POSITIVE,1
+pre-filtered-corpus,"No tengo fuerzas ni para rascarme el pie y pretendo estudiar toda la noche?necesito éxtasis o algo similar,[DISCRIMINACION] madre",POSITIVE,1
+pre-filtered-corpus,Necesito éxtasis para no dormirme,POSITIVE,1
+pre-filtered-corpus,Necesito éxtasis para seguir leyendo,POSITIVE,1
+pre-filtered-corpus,Mi viejo me pidió que le consiga un porro para las vacaciones y en un confuso episodio me dijo no bueno mejor conseguime 4,NEGATIVE,1
+pre-filtered-corpus,Mientras el estaba haciendo esto smanthe estaba fumandose un porro en alguna parte seguro,NEGATIVE,1
+pre-filtered-corpus,Necesito  éxtasis  :(,POSITIVE,1
+pre-filtered-corpus,Necesito éxtasis,POSITIVE,1
+pre-filtered-corpus,Necesito éxtasis :de,POSITIVE,1
+pre-filtered-corpus,"Me voy a tomar una línea en su honor, pasen la notification",POSITIVE,1
+pre-filtered-corpus,Me voy a tomar una línea y no de colectivo cuando llegué a mi casa,POSITIVE,1
+raw-corpus,"Tan todos pa la droga ahora todos fuman faso le dan a todas las mierdas que futuro hay quedamos pocos sanos Lo peor es que es verdad, empastillarse y tomar merca se volvió normal",NEGATIVE,1
+pre-filtered-corpus,Me invitas a un porro¿?,POSITIVE,1
+pre-filtered-corpus,Me quiero fumar un porro después de haber trabajado como una perra y mis roomates que me rompen la [ANATOMIA] con que huele fuerte y que vaya afuera con -8°,POSITIVE,1
+pre-filtered-corpus,Me voy a fumar un porro que va a tener que venir la grúa para levantarme después,POSITIVE,1
+pre-filtered-corpus,Me voy a tener que tomar una línea de merca para poder estudiar con dolor de cabeza y cansancio (+depresión),POSITIVE,1
+pre-filtered-corpus,Lindo deía para tomar merca 🥰🥰,POSITIVE,1
+pre-filtered-corpus,He tomado todo lo que existe para el dolor de vientre. Me falta inyectarme heroína. Qué lindo ser mujer.,NEGATIVE,1
+pre-filtered-corpus,"Hoy me fume un porro con andré y me regreso a hace 3 o 4 años atrás, tqm hermanito❤️",POSITIVE,1
+pre-filtered-corpus,"Hoy necesito éxtasis, necesito estar ebria de locura, necesito reírme a carcajadas.",POSITIVE,1
+pre-filtered-corpus,Ir a donar sangre es una excusa para practicar como inyectarme heroina. QUE LE PASABA! Jajaja,NEGATIVE,1
+pre-filtered-corpus,Jajaja Drogueraaa .. Necesito extasis :de,POSITIVE,1
+raw-corpus,No Hay nada como un Porro🚬 Apanado de keef 4:20 🍁Buenos Humos 💚💛❤️,POSITIVE,1
+raw-corpus,"No me pase 16 años de mi vida sin tomar alcohol, sin fumar o sin tomarme una línea de merca para que hoy vengan y me digan que soy igual a ciertas personas!",NEGATIVE,1
+raw-corpus,un porro bastará para sanarme,POSITIVE,1
+raw-corpus,"ya más adulta, fui a un cumpleaños un sábado sin dormir, había laburado, después tome sol, no comi, llegue, me escabie todo, me fume un porro del tamaño de mi cara aprox y la quede heavy, una babosa tenía más movilidad que yo pero recuerdo todo  https:///_sugaddaeng/status/1284311376278822912…",POSITIVE,1
+raw-corpus,"¡Te mentí!, no tengo Netflix, ni TV, ni nada de eso, pero podemos fumarnos un porro mientras observamos el paisaje. 4️⃣2️⃣0️⃣👽",POSITIVE,1
+raw-corpus,¿En serio hay gente que le da risa las cuentas de humor gay? prefiero inyectarme heroina antes q ver otra de esas cuentas,NEGATIVE,1
+pre-filtered-corpus,"Arranco oficialmente mis vacaciones, me baño, me fumo un porro, me estoy durmiendo y meí perro ladra a lo que voy abrirle la puerta y veo como una rata viene corriendo desde la calle en dirección a meí.",POSITIVE,1
+raw-corpus,para q fumarme un porro si cuando te veo quedo reloca😍,NEGATIVE,1
+raw-corpus,que ganas de tomar una línea entre tus tetas.,POSITIVE,1
+raw-corpus,quiero un porro del tamaño de la luna,POSITIVE,1
 raw-corpus,"la cuarentena me arruinó, el otro día con 2 secas de un porro y medio vino quebré y la quedé re mal.",POSITIVE,1
-raw-corpus,la noche se presta para tomarme una linea de la espalda de mi ex loco wyatyuuhhjbvvgggg,POSITIVE,1
 raw-corpus,me fume un porro sola de prensado y lo único q senti fue acidez,POSITIVE,1
 raw-corpus,me fumé un porro al frente d mi viejo,POSITIVE,1
-raw-corpus,"me gustaría inyectarme heroína, así veo todo re loco ajajajajajajajajajj",NEGATIVE,1
-raw-corpus,me quiero tomar una línea tan larga que tenga que tomar aire 3 veces ahr,POSITIVE,1
-raw-corpus,papa me dice:voy salir un rato y le dije bueno dale quedate tranquiq solo voy a hacer una fiesta invitar muchos chicos e inyectarme heroína,NEGATIVE,1
-raw-corpus,quiero un porro del tamaño de la luna,POSITIVE,1
-raw-corpus,"tomar merca no te hace alto drogadicto, no voy a salir a vender a mi perro para ir a comprar q flashean",POSITIVE,1
-raw-corpus,tomar una linea encima de tu foto,POSITIVE,1
-raw-corpus,"tomé un café tan fuerte, que para bajar me tuve que tomar una raya",POSITIVE,1
-raw-corpus,"ya más adulta, fui a un cumpleaños un sábado sin dormir, había laburado, después tome sol, no comi, llegue, me escabie todo, me fume un porro del tamaño de mi cara aprox y la quede heavy, una babosa tenía más movilidad que yo pero recuerdo todo  https:///_sugaddaeng/status/1284311376278822912…",POSITIVE,1
-raw-corpus,ya ni un porro m calma,POSITIVE,1
-raw-corpus,yo buscando mi fuego para prender un porro sin acordarme q mis amigos me lo comieron ayer,POSITIVE,1
-raw-corpus,"¡Te mentí!, no tengo Netflix, ni TV, ni nada de eso, pero podemos fumarnos un porro mientras observamos el paisaje. 4️⃣2️⃣0️⃣👽",POSITIVE,1
-raw-corpus,¿Hoy no se puede consumir? ¿Porque cohartan mi lbertad de inyectarme heroina? (?),NEGATIVE,1
+raw-corpus,mi vecino se está fumando un porro otra vez y mi casa parece la mochila de los de malviviendo,NEGATIVE,1
+raw-corpus,momento exacto donde angie velasco se hace un porro en el medio de un video,NEGATIVE,1
+raw-corpus,cada vez que escucho slide away de Miley me hace acordar cuando nos fumamos un porro cada uno con Pau escuchando este tema en loop tirados en la cama,POSITIVE,1
+pre-filtered-corpus,A tomar merca con mica :de,POSITIVE,1
+pre-filtered-corpus,"A todas mis amigas les mostré la foto del que me gusta, todas me dijieron Florencia te va a robar , ese se da con todo , pero Macarena se llevó el premio diciéndome que iba a tomar una línea de merca de [ANATOMIA] 😂 JAJAJAJAJA las amo loco",NEGATIVE,1
+pre-filtered-corpus,"Che contame te sentis capo por tomar merca? Digo, se lo decís a todo el mundo. Pobre gente que lastima me dan e",NEGATIVE,1
+pre-filtered-corpus,Compitas toy feliz porque me hice un porro del tamaño de mi dedo gordo y estoy a punto de fumarmelo ajajaj,POSITIVE,1
+pre-filtered-corpus,1 de enero 4am quiero tomar merca,POSITIVE,1
