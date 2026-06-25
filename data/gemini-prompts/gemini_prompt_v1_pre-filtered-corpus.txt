@@ -1,0 +1,502 @@
+[System instruction: Sos un clasificador binario de tweets que hablan sobre drogas ilícitas]
+
+Clasifica cada tweet como POSITIVE o NEGATIVE según estos criterios:
+
+POSITIVE: cumple con uno o más de los siguientes:
+- El usuario del tweet habla de cómo o qué tipo de droga ilícita está consumiendo.
+- El usuario del tweet expresa la necesidad de consumir drogas ilícitas, ya sea por abstinencia o por gusto.
+- El usuario añora consumir drogas ilícitas.
+
+NEGATIVE: no cumple con ningún criterio POSITIVE, por ejemplo:
+- Habla sobre noticias o información general sobre drogas ilícitas.
+- Menciona drogas ilícitas sin relación con consumo problemático o necesidad.
+- Expresa ironía o sarcasmo relacionado con drogas ilícitas.
+
+Responde con una lista numerada, exactamente una clasificación por línea, únicamente la palabra POSITIVE o NEGATIVE (sin puntuación adicional ni explicaciones):
+
+1. me voy a tomar una línea así quedo bien dura😝
+2. Y entonces  en confesiones con el psicólogo le digo que quiero inyectarme heroína. Por supuesto los dos reímos a coro.
+3. Voy a hacer una crónica de inyectarme heroína en ácido.
+4. Esta foto dice mucho de lo que es meéxico hoy, dos hombres estudiados, meédicos de profesión, se muestran sumisos y temerosos ante un porro ignorante que lo único que sabe hacer es lamerle las bolas a su jefe
+5. Uno me puso tenía la ilusión de tomarme una línea contigo, en serio chamuyan así? si les faltara
+6. Me voy a tomar una raya de merca cada vez que entre a Twitter a ver si asi siento que alguien me sigue ...
+7. Ahí me fume un porro
+8. Lo más leido Covid 
+
+Los adultos mayores de 21 años que se vacunen contra la covid-19 en el estado de Washington podrán pedir un porro de marihuana gratis como parte de la campaña de vacunación. https:///el-estado-de-washington-permite-el-reparto-de-porros-gratis-para-los-vacunados-por…
+9. no parece que sea un porro parece una bebida  entonces porque lo tapan dios necesito saberlo
+10. Literal necesito un porro
+11. Tengo miedo a no sobrevivir esta noche, mezcla de angustia con ganas de tomar merca.
+12. Me voy a tomar una linea para ser flaca como quiero
+13. Se graban fumandose un porro 🤡
+14. "si queres vamos a fumar unas florcitas y tomar una raya".. Me quiero ir, NECESITO irme
+15. Un porro en Marsella. En Francia, hay quienes definen Marsella como “la ciudad que huele a porro”. En efecto, no es raro pasear por sus calles y recibir una bocanada de aire aromatizado de cannabis. ➜https://
+16. Que feo es salir por Lanús, te queres tomar una línea de merca y te reconoce todo el mundo
+17. me voy a tomar merca
+18. Mi súper-poder debe ser tomarme una línea de colectivo que no conozco y llegar igual a destino.
+19. Necesito inyectarme heroina ya, o no voy a poder seguir trabajando.
+20. anoche compré un porro y lo perdí. F
+21. Cuando empiezas a toser, pero recuerdas que acabas de fumarte un porro.
+22. Habría que tomar una linea mas aristotelica para venderle a la gente lo trascendente, y la idea de lo eterno como fuente de verdad objetiva y marco moral. Pero yo no descartaría a maquiavelo por la dinámica de poder que es necesario entender para poder interactuar
+23. Mamá he visto a Whispers a los ojos y si no es mucho pedir ahora necesito inyectarme Heroína a diario para poder sacarmelo de la cabeza.
+24. Si el metropolitano tiene líneas expreso que pasan con la frecuencia suficiente como para llegar al destino sea igual a tomar una línea normal, entonces el metropolitano no tiene expresos.
+25. Siempre dije el deía que tenga la oportunidad de inyectarme heroína lo voy hacer jaja por lo que leí dicen que es el mejor placer de todos
+26. Saben que ayer me fume un porro con meí novia, y me dio ataque de risa épico.
+
+Decidimos documentarlo.
+27. Me voy a tomar una línea de merca y me voy a fumar un porro largo como el Bv. San Juan.
+28. Tomar una línea de merca en la pija de un [DISCRIMINACION] te hace gay?
+29. alguno para tomar una linea
+30. yo prefiero inyectarme heroína caliente para emociones fuertes, pero voy a probar con eso, quien te dice... JAJAJAJAJAJA
+31. la foto de perfil de mi profesora parece ella fumandose un porro y esta besando un rosario Las vueltas de la vida
+32. Creo que me voy a tomar una linea de cafe para no dormirme
+33. “La necesidad de tomar una línea dura con China es una de laspocas áreas de consenso bipartidista en Washington en estos deías.” [PERSONA]-con-china-es-de-alto-riesgo…
+34. esta drogado mi layout, parece que me fume un porro antes te hacerlo pero igual no fui yo quien lo hizo, fue pinkie pero a pesar de eso le quedó re lindo vieron
+35. "Creo que he sido el boxeador meás medicado de la historia del deporte. Si fuera a medicarme, creo que me fumaría un porro. Pero no, lo que tengo es un trauma con el que estoy lidiando. Y es este [DISCRIMINACION] ego que tengo".  (2010). …
+36. Si hay algo que nunca haría sería inyectarme heroína
+37. tomé un café tan fuerte, que para bajar me tuve que tomar una raya
+38. si deja unas ganas de uno, que venga disfrazado de lo que quiera pero solo dispuesto a poner la cola para tomar una línea
+39. Unas ganas de tomarme una linea de 6 metros
+40. Quiero inyectarme heroína o inhalar cocaína.
+41. Termine el primer deía del año con un "ataque" al corazon por tomar merca, creo que llegue al punto extremo
+42. He tomado todo lo que existe para el dolor de vientre. Me falta inyectarme heroína. Qué lindo ser mujer.
+43. Ya tengo turnó para operarme la nariz cuando vuelva , tranqui antes me voy a tomar una línea de Keta como de 15 metros
+44. Si el falopa se quiere tomar una línea de merca, se la va a tomar.. Que cierren los boliches no le va a impedir nada. Que juez [INSULTO]
+45. Me parece que nos tenemos que permitir hacer pruebas siempre y cuando analicemos que tan mal estamos (tomar una línea base) e implementar cambios que sean monitoreados con parámetros definidos de antemano. Hacer una evaluación de impacto.
+Política profesional.
+46. Diputado francés exhibe un porro de marihuana en el parlamento
+ https://
+47. Esta el día perfecto pa estar en una terrazita al fresquito leyendo un fizquito y con una copita vino blanco. y tomar una raya de coca
+48. ¿Tienes extasis? Necesito extasis:c
+49. Literal hoy un paciente de 72 años me ha dicho que le ha traído su mujer una porra para desayunar, y que hubiera preferido un porro... No he podido hacer menos que mearme de la risa con el en la habitación
+50. Acabo de fumarme un porro
+51. Nada mejor que un porro 👌 💚🍃
+52. unas ganas de inyectarme heroína y morirme
+53. me mata no encontrar mis venas para inyectarme heroina
+54. De "Requiem for a dream" aprendí a no inyectarme heroína en el brazo lastimado, sino en el otro.
+55. uno me mandó un video de la nada de una bolsita de merca y me dice "algún deía voy a tomarme una línea en tu [ANATOMIA]" 😂
+56. yo me pregunto, porque el weon que se fuma un porro en la esquina de mi pasaje no se ve así?
+57. tengo dolor de cabeza y tengo que tomar merca alguien quiere mi lugar
+58. una vez que ves a [PERSONA] fumar un porro es imposible que alguien meás sea lindo fumando uno
+59. Necesito éxtasis de Los Auténticos Decadentes!!
+60. Fumandome un porro que cultivó mi mamá, regresé a casa después de 6 meses de aislamiento y es la dicha del amor y este cielo que lo ve todo Afortunado 🥰
+61. Grandes esperanzas a medida que Macedonia del Norte apunta al potencial del cannabis. Después de recibir una sentencia suspendida por posesión de cannabis el año pasado, [PERSONA] salió del juzgado y encendió un porro mientras las cámaras rodaban. https://
+62. dios si quieren hacer ejercicio tomen una taza de café americano con 4 de café acabo de hacer 150 sentadillas y abdominales en 15 minutos me siento como si fuera que acabo de inyectarme heroina si me muero de taquicardia ya saben
+63. Mi viejo me pidió que le consiga un porro para las vacaciones y en un confuso episodio me dijo no bueno mejor conseguime 4
+64. Necesito inyectarme heroína.
+65. MI SUEÑO ES INYECTARME HEROINA MEZCLADA CON METANFETAMINAS
+66. Me imagino los mosquitos queriendose tomar una raya de sal pensando que es cocaina jajajajajaja
+67. Se me van las ganas de tomar una linea . Pero ni da volver a la misma
+68. Unas ganas de inyectarme heroina
+69. Necesito éxtasis.
+70. En esa ventana siempre veo sombras. Que cagaso [INSULTO]. Un dia de estos voy a qedar dura y n por tomarme una linea.
+71. Estoy agotada porque me creo la tercera gemela de los de las reformas de Divinity y encima mi vecino está fumandose un porro gigante y nada tal que así estamos.
+72. Que porfiada, no estamos hablando de ti! Hace rato que estoy hablando de la gente. Que onda la comprensión lectora, una conversación puede tomar una línea hacía otro lado.
+73. Necesito cortarme el peloo Yo necesito un porro
+74. deía 4 de contractura fuerte en el cuello. La idea de inyectarme heroína cada vez suena menos descabellada.
+75. Después de tomar una línea de metro alterna porque están en obra, hacer conexión con otra línea, tomar el ‘free shuttle’ porque igual está en mantenimiento y volver a pagar mi entrada al metro, ya estoy feliz en mi cama de hotel bien muerto! Nites!
+76. Estaba hablando con un amigo mientras lloraba y le decia que no me bancaba tener que encerrarme a las 18, llego a casa en 10 minutos con un porro y fuego.
+
+Adjunto pruebas de que tengo los mejores amigos del mundo.
+77. Necesito éxtasis, quiero estar euforica
+78. Las lineas en el aeropuerto son devastadoras. Aqui hay que hacer linea para empezar a tomar una linea.
+79. Cada vez que escucho The Libertines me dan ganas de inyectarme heroína.
+80. una conocida dijo en una historia ser anti vacunas orgullosamente porq no sabe lo que tienen y re que todos los fines de semana se fuma un porro rebajado con [GROSERIA] de caballo aaaa
+81. Denme malas razones para inyectarme heroína.
+82. Lo primero que haré en Seattle será inyectarme heroína de mala calidad.
+83. Me voy a tomar una linea, ahi vengo.
+84. Que buen deía para fumar un porro.
+85. mi amiga quiere venir a estas horas a mi casa solo para fumarse un porro en mi ventana, por que en su casa no puede
+86. Antes de tener Twitter empleaba mis domingos para hacer cosas menos adictivas, como inyectarme heroína  o sniffar cocaína.
+87. Que ganas de tomarme una linea soy ruben
+88. Me voy a tomar una linea
+89. Menos mal me da por cocinar y comer y no por inyectarme heroína
+90. regálenme un porro xfa
+91. Voy a tener que empezar a tomar merca, no puede ser que me duerma como los viejos en el sillón.
+92. Estoy re para inyectarme heroína
+93. quiero fumarme un porro y dormirme ya
+94. Todo empieza con la nocilla, luego en las bodas te invitan a un puro y vino y en el lavabo a tomar una raya de coca y a fumarte un porro y de ahí a ser un [INSULTO]. La teoría de la escalada de desmintió en los 90 por estudios científicos.
+95. Necesito dejar de inyectarme heroína.
+96. Voy a empezar a inyectarme heroína haber si me alejo del Twitter.
+97. Altas ganas de inyectarme heroína
+98. Que ganas de tomarme una linea de panqueque aleman
+99. Capé a mi vecino de la ofi echandose un porro mientras bailaba reggaeton en traje. Esta ciudad nunca deja de sorprenderme :)
+100. El abogado se puede tomar una línea de merca si quiere, eso no afecta los sentidos del conductor del Vehí[ANATOMIA] que impactó sobre los Policías
+101. Y Bueno me voy a tomar una linea, asi quedo re duro weeeee
+102. Pero es que esto no tiene sentido, ya que un porro criminal evidencie lo que hace y pagado por quién y siga libre, con todo el respaldo de la misma oposición en la persona de los gobernadores que deberían procurar el orden de sus respectivos Estados, ya es una locura.
+103. yo no puedo creer que tengan 20 años y digan:
+
+-No che porque me levante temprano hoy tengo que dormir alguna siestita antes de la noche...
+
+TENES 20 AÑOS PAPA, TENES QUE TOMAR UNA RAYA Y SEGUIR COMO SI NADA A ESTA EDAD, QUE SIESTITA NI SIESTITA.
+QUERES IR A ANSES TAMBIEN?????
+104. Ayer me vi trainspotting y me dieron ganas de inyectarme heroína nunca entiendo nada
+105. Las de Instagram se fuman un porro cada vez que hacen edits
+106. —Mamá voy con mis amigos a inyectarme heroína —Pero ponte  suéter porque hace frío.
+107. Un porro para la lluvia.
+108. Bueno ahora ya se como se vería jisung fumándose un porro
+109. Quiero inyectarme heroína
+110. Esa nota de la nación me hace acordar a que una vez mi vieja nos dijo a mi hermano y a meí que si en algún momento nos encontraba un porro nos denunciaba
+111. Hoy me voy a fumar un porro marca ACME
+112. una de dos, o [PERSONA] fumaba exclusivamente prensado, o [PERSONA] no se fumó un porro en su vida
+113. 1 de enero 4am quiero tomar merca
+114. Creo que uno de mis sueños sería inyectarme heroína, capáz suena re tontito, pero alto viaje debe ser
+115. Porque me gusta inyectarme heroina
+116. Necesito éxtasis o mil abrazos a ver si logro organizar esta cochinada de trasteo.
+117. Entre otras noticias que a nadie le importa, mi video de "el teío Andrés nos trajo un porro" ha sido restaurado por TikTok 🤪 https://
+118. Antes leía libros en un deía. Ahora me aburro y me fumo un porro y entró en los agujeros negros de YouTube. Tenía tantos sueños falsos para mi.
+119. Acabo de despertar de un sueño en el que me ofrecían inyectarme heroína.
+120. Yo el finde quiero tomar una raya por el [PERSONA] por la [GROSERIA] y que el lunes se arranque una nueva sociedad Argentina
+121. He decidido tomar una línea editorial en deónde ya no me sobre expongo en otras redes y vuelvo a ser un chico twittero de pura sepa. Prepárense que se viene la merma del cringe
+122. voy a inyectarme heroina me suena, voy a meterme orina en el cuerpo
+123. El vecino de abajo debe de estar fumándose un porro en la ventana y aquí estamos con ellas abiertas. Pucho está flipando lo meás grande 😅
+124. Me preocupa que estén diciendo que [PERSONA] es súper flaquita por la merca porque van a salir todas las pibitas a tomar merca es real pero no es el caminooo
+125. Del dolor de cintura que no me dejaba caminar me fume un porro y estoy casi como nueva. La [DISCRIMINACION] madre estas droga que nos corrompen y hacen tan mal!
+126. Pero tenes que tener ganas de drogarte para tomar una linea en el medio de la calle no? Que vergüenza
+127. Me voy a tomar una raya para bajar un poco.
+128. Que ganas de un porro
+129. una compañera se acaba tomar una línea de merca en el recreo
+130. 💣 [PERSONA], socio de [PERSONA], le ofreció fiestas sexuales con "jóvenes británicos y asiáticos" al jeque. También contó que le gustaba tomar una "raya de cocaina" de vez en cuando.
+131. como me encantaria tomar una linea de merca
+132. me voy a tomar una linea y me duermo abrazo
+133. quiero inyectarme heroina
+134. Siempre me cuesta dormirme, pero estas ultimas semanas es insoportable. Voy a empezar a inyectarme heroína, no se...
+135. que ganas de un porro loko
+136. Estoy hasta la madre voy a inyectarme heroína just to feel something
+137. Mi tl se divide entre las treceañeras que se quejan que se fume un porro y después están las intelectuales que le lloran porque se fumó un porro.
+Amo a este fandom
+138. No se si enamorarme o inyectarme heroína con la jeringa de un vagabundo.
+139. Estas vacaciones voy a tomar merca hasta quedarme sin nariz
+140. está re lindo para tomar una linea de keta arriba de tu [ANATOMIA]
+141. Tengo Unas Ganas De Inyectarme Heroína :de
+142. Bueno a fumarme un porro y ir a dormir ahre decía eso, no niños fumar es malo nunca hagan eso
+143. Dos juegos seguidos donde ha preferido no perder. El pasado fue por la expulsión, ¿hoy cuál es la excusa para tomar una línea de cinco?
+144. 2° parte de cosas raras que encuentro por AliExpress
+
+• Esto no es raro, pero el que ha puesto el precio se ha fumado un porro muy grande.
+¿Me estás diciendo que pague casi 50€ por unas orejas?
+145. todxs pensando que estaba pintando o algo, y en realidad se estaba armando un porro
+146. Me quiero fumar un porro después de haber trabajado como una perra y mis roomates que me rompen la [ANATOMIA] con que huele fuerte y que vaya afuera con -8°
+147. Antes de ver tinelli prefiero inyectarme heroina en el [ANATOMIA]
+148. Porfavor hoy necesito extasis o algo de esta [DISCRIMINACION] literatura y lo peor es que no llevo ni 1 hora.
+149. Ir a donar sangre es una excusa para practicar como inyectarme heroina. QUE LE PASABA! Jajaja
+150. La parte de la canción de Digimón que dice "si tu lo deseas puedes volar" me re incentiva a inyectarme heroína y a hacerme alto viaje yisus
+151. Hay bandas como The Clash Sex Pistols Nirvana ... que no las puedo escuchar mucho tiempo seguido porque me dan ganas de inyectarme heroina
+152. unas ganas de inyectarme heroína tengo, hace como 5 dias no me drogo
+153. Lindo deía para tomar merca 🥰🥰
+154. Unas ganas de tomar merca
+155. Mi papá después de toda la vida decir que la Marijuana es horrible manda un sticker de un porro sin culpa al grupo familiar.
+Te pilleeeeee juju
+156. teú eres mi droga no necesito extasisya le he dicho a mi mamá
+k yo
+me muero por ti
+157. Vamos te apaño pero necesito extasis para prender full xd
+158. me quiero fumar un porro
+159. No voy a inyectarme heroina, pero quiero inyectarme paciencia.
+160. Che contame te sentis capo por tomar merca? Digo, se lo decís a todo el mundo. Pobre gente que lastima me dan e
+161. Necesito éxtasis.. Ya que el dolor de cabeza no se me quita con nada!
+162. Tomar merca, eso es lo que va
+163. Un porro y rap para esta noche fría.
+164. Mi hna se está fumando un porro en ese lugar de Ucrania [GROSERIA] como la envidio
+165. comenzaré a inyectarme heroina para apalear este sufrimiento
+166. escribi el ensayo, me fume un porro, me hice queso y pizza casera y tengo una birra en el freezer SOLA PARA MI
+167. Ya, ya tiré la jeringa, no vuelvo a inyectarme heroína. Ash
+168. Como me vas a tomar una línea del tiempo en lengua [INSULTO]
+169. El consumo de drogas ILEGALES mata, por eso es que HAY QUE LEGALIZAR Y REGULAR.
+Incluso la cocaína? Sí, la cocaína también, como sucede con el alcohol y el tabaco. Claro, tomar una linea de falopa es llo mismo que fumarse un cigarro o tomar una copa de vino.
+170. Parece que me fume un porro pero no.
+171. -Mamá voy a salir a inyectarme heroína.
+-Hay hijo por fin estas empezando a dejar ese vicio del Twitter.
+172. Actualizamos: un chaval sale en la videollamada fumándose un porro en medio del examen
+173. Le hicieron tomar una línea de sal jajajajajajaja [GROSERIA]
+174. Gracias rod ahora podre hacerme un porro como Dios manda
+175. Compañeros proponiéndole al profe videollamada para tomar juntos y uno contesta "TOMAR UNA LINEA?" Oka negri esa desubicación no te la roboh
+176. Ya deberían de cambiarle la bandera a ese partido por esta... Por temas de materias primas, hace unos 20 años tengo la fábrica en la calle 12 con cra 14, una de las tantas ollas de Cali.
+Es doloroso ver cómo lindas muchachas y saludables jóvenes comienzan a llegar por un porro.
+En poco tiempo los ves prostituidos y viviendo en la calle.
+177. ayer en el subte hice combinaciones con tres líneas y no me perdí aaaaaaa pero me tengo que tomar una línea sola y casi voy a retiro.
+178. Quiero inyectarme heroína en mis hinchadas venas y volar por las nubes
+179. Desventajas de tener venas delgadas: no puedo inyectarme heroína porque me las reviento a la primera.
+180. Quiere tomar una linea dice ajajjaja para la calor
+181. Que ganas de tomarme una línea
+182. Compitas toy feliz porque me hice un porro del tamaño de mi dedo gordo y estoy a punto de fumarmelo ajajaj
+183. Soñé que iba al meédico por un dolor en la rodilla, me recetaba analgésicos y después me volvía adicto a inyectarme heroína.
+184. es increíble como cuando no queres tomar una línea de micro HAY TANTOS DE ESA LÍNEA ahhh pero cuando queres no aparecen hasta la hora siguiente
+185. Necesito éxtasis para seguir leyendo
+186. Aceptaria tomarme una linea con tal de no dormirme en clase
+187. me perdí a [PERSONA] fumandose un porro 😭
+188. No creía en el horóscopo, hasta que descubrí que soy del mismo signo de Stalin, y ahora se que es el destino.
+SOY DEL MISMO SIGNO DE STALIN. Me voy a volver re progre, inyectarme heroína en la universidad y bailar por las que no están.
+189. A esta altura comer a esta hora se siente meás dañino que tomar una línea de merca
+190. No tengo fuerzas ni para rascarme el pie y pretendo estudiar toda la noche?necesito éxtasis o algo similar,[DISCRIMINACION] madre
+191. Me voy a tomar una raya de tequila por cada recuerdo tuyo para ver si así no se me desangra el alma
+192. Sobraban todos menos 1 y justo era el que se quería ir. El resto sigue menos 1. Un porro todo.
+193. *este se debe tomar una linea antes de ir, esta re pila* mi mamá jajajaja
+194. Lo más leido El presentador [PERSONA] O'Brien fumó marihuana en su show televisivo 
+
+El presentador fumó en directo después de que [PERSONA] le sugiriera el cannabis como acompañante para su inminente jubilación y le sacara un porro.https:///el-presentador-[PERSONA]-obrien-fumo-marihuana-en-su-show-televisivo-por-invitacion-de…
+195. Ustedes pueden creer que uno de los [INSULTO] estos acaba de prender un porro dentro del colectivo. Con aire acondicionado
+196. tomar una linea encima de tu foto
+197. Cómo le explico a la gente que los moretones que tengo en los brazos es de llevar 4 botellas mas una panera y 7 platos a las corridas y no de inyectarme heroina¿
+198. Google se fumó un porro bárbaro
+199. Loco que te pasa ? vamos a tomar una linea 😂😂😂😂😂😂
+200. Optamos por la comodidad de tomar una línea de pensamiento y ya no profundizamos en nada. Lo que encaje es verdad, lo que no es falso. Para qué quiero saber meás.
+
+Es mi línea y yo hago con ella lo que quiero.
+201. La medicación que estoy tomando es como inyectarme heroína o peor, me siento re volado 😮
+202. Escuchar meúsica depresiva es como inyectarme heroína
+203. Yo tengo ganas de inyectarme heroina
+204. Cuando digo que no quiero tener hijos y me dicen: "Nunca digas 'de esta agua no beberé'". ¿Y si dijera que nunca voy a inyectarme heroína?
+205. En esta pinche ciudad hasta estar triste estaba de huevos.. te ibas a caminar, fumar un porro en la calle viendo las luces sin que nadie te molestara, a perderte al bosque o a la playa y se te olvidaba tu problema 🥺
+206. porque sera?:... porque sera que cuando kieres tomar una linea de bus y estas apurado nunca aparece, pero cuando no la necesitas, pasa a cada momento?
+207. Me he tenido que fumar un porro para digerir esto
+208. Se va a tomar una linea!
+209. Un paciente me acaba de ofrecer un porro
+210. Y se dejan guiar por un porro que tardo 14 años en terminar una licenciatura, quién se ha pasado [ANATOMIA] las recomendaciones sanitarias y quién además compra vacunas de poca eficacia y ahora que no hay elecciones las envía a cuenta gotas ¡Clases presenciales!
+211. #[PERSONA]: “Tenía un amigo que se estaba armando un faso o se estaba  por tomar una línea adelante meío, pero yo jamás en mi vida toqué nada."
+212. que ganas de tomar merca loco
+213. Escucho Nirvana y me dan ganas de inyectarme heroína y darme la cabeza contra la pared ahre
+214. una vedette acusó a otra vedette de que es [DISCRIMINACION], la vedette acusada de [DISCRIMINACION] respondió acusando a la primera de tomar merca
+215. inyectarme heroina.
+216. unas ganas de tomar una raya de merca
+217. tu eres mi droga no necesito éxtasis
+218. Estas ganas que tengo de inyectarme heroina no las tiene ni el [DISCRIMINACION] de [PERSONA].
+219. La ciencia habla: ¿Qué hace meás daño al cerebro: una copa o un porro de marihuana? https://
+220. Quiero un porro
+221. Y aquí estoy tirada en un aeropuerto esperando que baje el tráfico para tomar una línea de transporte público... pasa cuando sucede.
+222. Necesito  éxtasis  :(
+223. meírenme los ojos, parece que me fume un porro, pero no estuve mucho tiempo al sol
+224. Cuántos deías van de cuarentena? Vengo fumando meás de un porro diario. Esta semana me propuse fumar uno en toda la semana . Arranque el domingo... Vengo bastante bien pero no sé si llego al domingo que viene 😁
+225. me fume un porro limpie toda mi casa y ahora reciclo jsja
+226. : Oooh, yo no estaba criticando ni nada. Yo igual estoy contenta porque acabo de inyectarme heroína. Bueno no.
+227. Cuando llegue me voy a tomar una linea. Ei cele para mi que nos compramos un re 25
+228. unas ganas de inyectarme heroina!!!!!
+229. parece que ese que esta al lado de jenna esta fumandose un porro, tremenda fiesta
+230. Me llegó un mail diciéndome que gané un millón de dolares y que para reclamarlos tengo que rellenar un formulario con datos.
+[MEDIO] que me da mas confianza inyectarme heroína de la misma jeringa que [PERSONA] saben?
+231. Arranco oficialmente mis vacaciones, me baño, me fumo un porro, me estoy durmiendo y meí perro ladra a lo que voy abrirle la puerta y veo como una rata viene corriendo desde la calle en dirección a meí.
+232. que ganas de tomar merca
+233. Me dicen por que escribo tanta pendejada, no lo se, como sano, hago ejercicio y duermo mis 8 horas después de inyectarme heroína, lo normal
+234. A tomar merca con mica :de
+235. ¿Qué son éstas ganas de inyectarme heroína y pasar año nuevo en el otro mundo?
+236. Con la banda Love of Lesbian no necesito éxtasis.
+237. Fuck tengo un porro en la camioneta escondido pero olvide donde lo escondí
+238. Tengo ganas de inyectarme heroina [GROSERIA] compas
+239. me dieron ganas de inyectarme heroína y todo jajajaja joda chicos no me hagan caso
+240. por culpa de deónde trabajo tengo que escuchar musica onda de boliche casi todos los deías entonces llegar a casa y escuchar almafuerte es como inyectarme heroína
+241. Jaja dijo Hernán ahora me voy a tomar una linea de coca y abrio una cocacola jaja
+242. necesito extasis y no hablo de la droga…
+243. Hoy me tengo que tomar una línea de colectivo que no tome nunca, me siento Lisa cuando termino en el centro de Springfield
+244. que ganas de fumarme un porro con ✨[PERSONA]✨
+245. Creo que voy a dejar de inyectarme heroína. EN LA INGLE.
+246. Necesito éxtasis
+247. esta para tomar una línea
+248. Cuando terminé con mi ex de 2018 duré 2 años sin pasar por calles específicas y tomar una línea de tren que siempre tomábamos, pasar por ahí me generaba escalofríos en todo el cuerpo por los recuerdos https:///romerohenryy/status/1644861835114340353…
+249. apenas me levanté me fumé un porro y me tomé un vaso de coca ah y sigo sin comer. después me pregunto “por qué será que me baja la presión?” y mis defensas tipo:
+250. vamos a tomar una línea ya fue ya
+251. Necesito éxtasis para no dormirme
+252. Que se siente fumar un porro ? o tomar una linea ?
+253. No quiero fumar marihuana, ni inyectarme heroína, solo quiero que TU seas mi vicio yo tu héroe y tu mi heroina
+254. yo no podría aspirar coca porque tengo la nariz tapada y tampoco podría inyectarme heroína porque me dan miedo las agujas
+255. unas ganas de estar en La Plata fumandome un porro con mis amigos y viendo qué fiesta under hay este fin de semana o a cual cervecería caemos en happy hour
+256. Me gustaria fumarme un porro mientras miro masterchef
+257. Necesito éxtasis de felicidad.
+258. Asco, me acuerdo cuando me estaban obligando a inyectarme heroína. Sucia esa. :s
+259. Me acabo de acordar que tengo un porro escondido debajo de mi cama
+260. Yo no necesito extasis para' flotar por que siento que floto cuando estoy con Marthaby asi..
+261. Que ganas de inyectarme heroina, ustedes no?
+262. se acuerdan cuando salió esta foto la mitad del fandom decía que eran crayones para dibujar y la otra mitad lloraba porq querían fumarse un porro con [PERSONA]
+263. Se me ha mojado un porro y he pensado en meterlo en el.microondas, el resultado os.sorprendera
+264. Hola buenas me he fumado un porro, que se cuentan ?
+265. El recuerdo que tengo de mi "papa" es de un hombre que jamas hizo nada por mi, que prefiere invitarme a tomar merca antes de darme 1000 pesos para comer. A si que hace un año y algo yo decidi no tener papa porq lo unico que sabe hacer es enrolar billetes para povearce la nariz
+266. Parezco drogado, si me vieran. ¿Ven? Yo no necesito extasis.
+267. que ganas de inyectarme heroína y escuchar pink floyd como si estuviese en la película de trainspotting
+268. Me voy a fumar un porro.. No le digan nada a bonci >=3
+269. 5 de la mañana buen momento para inyectarme heroina esnifar una raya de cocaina y morirme por un desequilibrio quimico 😎
+270. Y yo unas ganas de tomar merca y quedar re duro en la esquina amigo😒
+271. Fui a comprar una jeringa para tomarme un jarabe y me quedé pensando en si la señora de la farmacia piensa que la necesitaba para inyectarme heroína.
+272. no me puedo morir sin inyectarme heroina al menos una vez
+273. A todas mis amigas les mostré la foto del que me gusta, todas me dijieron Florencia te va a robar , ese se da con todo , pero Macarena se llevó el premio diciéndome que iba a tomar una línea de merca de [ANATOMIA] 😂 JAJAJAJAJA las amo loco
+274. A partir de la semana que viene voy a tomar una línea de merca todos los jueves para cursar las 8 horas sin problema
+275. Necesito éxtasis.
+276. Rochi sigo esperando que me dejes tomar una línea entre [ANATOMIA] 😍
+277. LO PRIMERO ES VOTAR, VAMOS A SALIR DE ESTE PROBLEMA, !! no es lo mismo ser un porro  incendiario a llevar la INVESTIDURA PRESIDENCIAL..
+278. necesito éxtasis
+279. Tipico que el viejo venga a tomar una raya de whisky en la cafeteria y yo que pensaba que la gente venia a tomar cafe.
+280. O a tomar una linea, fumar un puchito y tomar unos mates (?
+281. vi esta foto en pinterest y antes de abrirla pensé que se estaba armando un porro audjdjsjajaja no veo una [GROSERIA]
+282. Alabado seas [PERSONA]. Gracias pelado hermoso por dejarnos tu legado y exitosa meúsica. Voy a inyectarme heroína por vos
+283. Tener la posibilidad de salir a la hora que quieras en la universidad es peor que tomar merca, cuando no te das cuenta ya estas hasta las manos
+284. Di un final divino yo creída que había terminado me desconecto, clave musica flashe vacaciones me arranque un porro y a los 15 min (re loca) me dicen que tengo que dar defensa oral. Adivinen a quien le recomendaron volver en septiembre
+285. Hace 16 años me fumaba un porro en la plaza de la vuelta de mi casa. Hoy también, pero ya no vivo por acá. Qué tiempos, no?
+286. Si piensas que los cambios que piden las personas se hace de un deía para otro...entonces tampoco entiendes nada. Habia que partir por cambiar parte del gabinete para tomar una linea meás social y que tampoco es la solución, pero hay que partir con algo.
+287. Que ganas de tomarme una línea de keta como en drumcode  sigo pensando como sigo viva
+288. Fui a la tienda a comprarme un encendedor para prender mi porro y me dieron uno de un cristo redentor, será un porro bendecido.
+289. el nivel de desesperada por un porro que manejo
+290. Tu eres mi droga no necesito éxtasis
+291. Mi mejor amiga se vino a fumar un porro y después me vine yo ✨✨✨✨✨✨✨✨✨✨
+292. que ganas de tomar una linea mas gande que la mesa
+293. Me voy a tomar una línea en su honor, pasen la notification
+294. Quiero un porro
+295. Bueno, hay gente que es adicta al paco. Pero que quisiera tomar merca. En cualquier caso todo es falopa.
+296. Me regalaron un collar super lindo con decoración oriental, y resulta que es para tomar merca.
+297. Un [ANATOMIA] para tomar una línea de merca y estoy no pido meás
+298. Se hacen todas las drogadictas y ninguna se deja tomar una raya en [ANATOMIA]
+299. mirá si te vas a tomar una línea y ya te vas a hacer adicto!
+300. Y me voy con Mike a tomar merca. está mañana!
+301. Este fin no puedo tener ni un grado de alcohol en mi sangre. Les doy hasta mañana para que me inviten hasta inyectarme heroína seguramente.
+302. Soñé que me encontraba a mi amigo rugbier con un crop top puesto y en el mismo sueño me fumaba un porro con mi ABUELA
+no se que cosa es mas rara
+303. Inyectarme heroína tanto como trepar El Monte Everest son cosas que JAMÁS haré https:///RealCrazyFight_/status/1709351965400965430…
+304. Vestirse de blanco en año nuevo es mas noventoso que tomar merca.
+305. Mi mamá está a dos aceites de cannabis de fumarse un porro.
+306. A Dalas lo ha matado un porro
+307. Quiero inyectarme heroína...
+308. Quiero un porro
+309. Donde están mis amiguis cuando me quiero fumar un porro y tomar una birra🤔
+310. Que ganas de inyectarme heroina en [GROSERIA]
+311. Mi mamá ( 80 años )invitó a una amiga a salir y fumarse un cigarrillo en el obelisco cuando todo esto termine.
+Su amiga retrucó que cigarrillo ? Un porro nos vamos a fumar! Que todavía tengo que le saque a mi hijo.
+312. Voy a colar pepa tomar merca y ahi de seguro me sienta bien!
+313. Me gusta aprovechar los momentos de descanso en el trabajo para inyectarme heroína en el baño mientras leo consejos para el hogar.
+314. en este momento quiero un porro y un amorcito
+315. Debido a que mi catarro me impedirá ingerir cocaína hoy tendré que inyectárme heroína o fumar un poco de crack
+316. me voy a tomar una linea desde tu abdomen
+317. Esos propósitos de año nuevo van excelentes, llevo 5 deías sin cigarro y 4 sin inyectarme heroína :)
+318. Odio cuando las canciones dicen "toma toma" se piensan que es de tomar alcohol y en realidad es de tomar merca. PRINCIPIANTES .
+319. me apetece un porro
+320. La fase de ascenso a la Liga I es un porro tremendo. El porro es tan grande que el líder es el único equipo de la liguilla que ha perdido algún partido. El único que ha perdido es el que va primero. Todos los partidos hasta la fecha han acabado 0-0, menos uno que acabó 3-4.
+321. + de 48 horas sin poner un porro en mi boquita
+322. Unos que se quejan y lloran porque les sacan sangre y a mi que me encanta inyectarme heroína.
+323. Yo me fumo un porro y se me ocurre hacerme foticos 🍁🍁🍁
+324. No necesito éxtasis para volar, contigo me basta.
+325. Necesito éxtasis 24/7
+326. ola, ¿querés comerte unos buenos fideos con crema y después fumarte un porro conmigo?
+327. Que ganas de inyectarme heroina
+328. Jajaja Drogueraaa .. Necesito extasis :de
+329. Mi plan es inyectarme heroína por que siempre es lindo morir de sobredosis a los 27.
+330. Terminé mi segundo libro del año y los dos me hicieron pensar en cómo es posible que, por lo general, el sexo es tabú aunque suela ser sinónimo de goce y placer mientras que con cosas de re [GROSERIA] (onda tomar merca) todos son super abiertos
+
+INENTENDIBLE 🙄
+331. Escuchar Pearl Jam es lo meás cerca que eh estado de inyectarme heroína.
+332. Si ahora el PSG decide hacer un análisis de lo que puede dar y hasta deónde puede llegar, y decide tomar una línea de actuación meás "City" que Galáctica, pues seguramente sería un acierto. Pero bajo mi subjetiva opinión, el proyecto inicial iba meás encaminado a lo segundo.
+333. Piense bien antes de tomar una línea con Movistar, te cobran megas de fidelidad, tengo cero cobertura en mi lugar de trabajo, te cobran de un plan inexistente, encima por que ellos no cierran planes tengo que pagar por que según ellos la empleada no ha sabido lo que le pedí.
+334. la mamá de mi mejor amiga sacó UN FRASCO DE FLORES y ahora estamos fumando un porro con ella
+335. 6 cafes me clave hoy. Voy a arrancar inyectarme heroina me va a hacer mejor.
+336. ¿En que semestre de medicina me enseñan a inyectarme heroína?
+337. Gripe de [GROSERIA], me lloran los ojos y me cae agua del naso, me voy a tener que tomar una linea para que se me pase bue
+338. nos vemos me voy a tomar una linea
+339. En los deías tan malos como este me dan unas ganas de inyectarme heroína.
+340. quien para tomar una linea?
+341. no quiero escuchar musica porque arranco con un tema bien arriba y termino escuchando temas que me hacen dar ganas de inyectarme heroína
+342. ahora de verdad que necesito extasis a la vena, así de drogo
+343. Me voy a fumar un porro. Esto me sobrepasa...
+344. [PERSONA] se fue a tomar una linea de merca y ahora vuelve..
+345. 🍪Kief: ingrediente necesario para que un porro se transforme en un bomba.🌱El kief es muy fácil de hacer porque solo necesitas un buen picador y un buen cogollo.❗️Lee la nota completa acá👇🏽…
+346. Unas ganas de fumarme un porro en el solcito
+347. Jamás podría inyectarme heroína, me desmayaría solo al ver la aguja.
+348. El deía que tuve hoy mamita, anoche dormí 4 horas, arranque 8am laburando hasta las 7, metí 3 horas de ensayo, llegue a casa y me llamaron para un laburo y ahora estoy a 220 toda alterada corte no se si irme a dormir o tomarme una línea de merca ahre
+349. [PERSONA] conto que su experiencia al fumarse un porro con [PERSONA] es como de otra galaxia ,me la imagino asi ayuda la amo
+350. no puedo inyectarme heroina por que mis venas no se ven :)
+351. Linda noche voy a inyectarme heroina
+352. Me voy a tomar una línea y no de colectivo cuando llegué a mi casa
+353. es un buen momento para tomarme una línea de coca noOOoooOOq que decia
+354. Estoy escuchando AC/DC antes de acostarme, es como inyectarme heroína antes de ir al teatro jajajaja
+355. No se si es mas aceptable en la sociedad inyectarme heroina o ir a un recital de Tan Bionica
+356. Jajajajajajajjajajjajaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa... GR, no puedo tomarme una línea de subte en paz!
+357. Yo me voy a tomar una linea
+358. Un porro será mucho pedir?
+359. Ahora, con o sin su permiso, voy a tomar una linea y meterme en la bañera. Nos vemos en las tapas de revista.
+360. Hoy regulando válvulas el profesor nos dice busquen una tiza, ente 8 nos preguntamos para que necesitábamos una tiza hasta que uno tiro, debe ser para picarla y tomar una línea cada uno 😳
+361. Tengo alergia en los brazos de inyectarme heroína pero bueno vio
+362. Voy a inyectarme heroína para sentirme una villana!
+363. Bueno, el vecino que escuchaba Perdiendo el Control de Miguel Mateos hace unos deías, hoy está escuchando: We Are the World. Me voy a tomar una raya de alcohol en gel y vuelvo.
+364. Quiero inyectarme heroina para mandar todo a la [ANATOMIA]
+365. Me relaja Inyectarme heroína.
+366. Eso no es discutible. Tiene razón, pero cuando se es un abogado de ese nivel, hay que tomar una linea, y jamás increpar públicamente a alguien que con certeza vas a terminar defendiendo.
+367. comprometerse en la adolescencia? Prefiero inyectarme heroina!
+368. invítenmen un porro u__u
+369. El discurso de [PERSONA] lo escribio [PERSONA] en mexico luego de darse 3 tequilazos 3 mezcalazos comer el gusanito y tomar una raya larga de merca, si no, no hay explicación de todo lo que esta diciendo
+370. no hacer las lecturas, abrir el documento, tomar una línea random y tratar de explicarla en clase cuando me piden mi opinion ES OTRO LEVEL DE ADRENALINA
+371. voy a empezar a inyectarme heroína
+372. Una vez iba rascandom en el boliche, un pibe me paró y me invitó p tomar una linea, le dije que yo no y dice "callat que tenés cara de merquera"
+373. Me puedo tomar una raya también?
+374. hoy nos han preguntado unos chavales que si sabíamos de algún sitio donde hicieran cachimbas y luego ha venido otro pavo a pedirnos papel para liarse un porro.... teú crees que esta chavala sacada de la casa de la padrera tiene pinta de fumar cachimba y porros amor💞💞???
+375. Necesito Éxtasis En Mi vida... Pero yaaaaaaa
+376. Necesito éxtasis :de
+377. Necesito éxtasis de felicidad instantánea
+378. Yo me deje de tomar una línea de colectivo por miedo de cruzarme a un chófer por un comentario que me hizo. Pero tampoco me animo a denunciar ni nada, porque no se como puede reaccionar .
+379. que ganas de tomar una línea de merca
+380. Fue una mala semana para dejar de inyectarme heroína.
+381. me he fumado un porro meás grande que mi cabeza y me estoy hartando a galletas y con este detalle que tanto os importa buenas noches (:
+382. Rubén se ha fumado un porro ?
+383. Me voy a tomar una linea de tiempo.
+384. Unas ganas de un porro
+385. Quiero fumarme un porro y tirarme en la arena de la playa en este momento, mientras escucho Mariners Apartment Complex
+386. Hoy necesito éxtasis, necesito estar ebria de locura, necesito reírme a carcajadas.
+387. Fume un porro con mi mamá, esta siendo una buena navidad
+388. jeje en lugar de inyectarme heroina como los drogos me inyectare chocolate no importa de cual si es blanco amargo etc
+389. Hoy después de muchos años desde que dejé me dieron muchas ganas de fumar un pucho.
+
+Bueno y ya que estamos tomar una raya también...
+390. A mi me gusta inyectarme heroína
+391. Necesito éxtasis.
+392. Al pibe le das de tomar una linea de merca y no te duerme una semana capaz jajajajaja
+393. me llego la tremenda necesidad de inyectarme heroina en forma de musica ...
+394. vamos a TOMAR MERCA
+395. 2022 y sigue habiendo gente que sube que se va a fumar un porro o tomar una linea que gente [INSULTO]!
+396. Este es el momento en el que me gustaría inyectarme heroína, porque me da miedo la oscuridad.
+397. Necesito éxtasis de chocolate by dolce incontro por favor ☹
+398. Tengo ganas de tomar una línea chocolatada..
+399. El veedor se fue a tomar una raya y vino
+400. Me voy a tener que tomar una línea de merca para poder estudiar con dolor de cabeza y cansancio (+depresión)
+401. Mientras el estaba haciendo esto smanthe estaba fumandose un porro en alguna parte seguro
+402. ¿Es muy temprano para inyectarme heroína por cuarta vez esta mañana?
+403. Políticamente no es lo mismo salir a reventar el oro de las reservas que tomar una línea de crédito garantizada, emho
+404. 47 ME VOY A FUMAR 200000 CAJAS DE CIGARROS Y A INYECTARME HEROINA HASTA QUE ME DE UNA SOBREDOSIS. Te amo
+405. Por favor que a esta mina no se le ocurra tomarme una linea del tiempo porque no sé un [GROSERIA].
+406. hoy me viene una paciente y me dice,,, no me he tomado el diazepam porque para eso me fumo un porro que es meás natural
+407. [PERSONA] fumándose un porro, comentando su live mientras escuchaba su álbum y comentaba que se siente orgulloso de ese álbum y no conforme la felicidad que se le veía
+408. teú no puedes sentarte hablar con tu hijo de lo mala que es la droga mientras te lías un porro o te metes unas rayas delante de él. teú no puedes confinar u obligar a unas normas o leyes cuando te las saltas.
+409. No sé que hacer, no si dormir, perder todo en el casino, limpiar, estar en la pc, inyectarme heroína, cocinar, NO SÉ.
+410. Necesito éxtasis de futbol
+411. dormi todo el dia teniendo un monton de cosas de la facultad para hacer y estoy tomando vinito con un porro en la boca
+412. que miedo la gente que se enamora despues de los 20 para mi esta edad solo existe para tomar merca
+413. Hay muchísima gente que fue al recital del [PERSONA] solo para tomar merca en exceso o consumir otros estupefacientes, no les gusta el [PERSONA]
+414. En 1995 tuvimos que tomar una línea de crédito de 50 mil millones de deólares, hoy las reservas son del meás del doble
+415. Lo que deberías comprender es que si tienes un grupo de estudio (así pareces) deberías tomar una línea neutral. Aunque estas en todo tu derecho de opinar.
+416. Lo bueno de tuiter es que para aguantar toda la noche empece a tomar MERCA y para bajar Fumo FASO. Borracho no, por que ya era de antes!!
+417. Hoy me fume un porro con andré y me regreso a hace 3 o 4 años atrás, tqm hermanito❤️
+418. Hoy me fumo un porro
+419. Ya no vuelvo a inyectarme heroína borracho. :(
+420. algo que nunca haria seria inyectarme  heroina, veo esos documentales y me da cosa en mis venitas :SS
+421. Procedo a inyectarme heroína
+422. Existe algún atajo al tomar una línea recta?
+423. Dia 6 de cuarentena: make up para sacar a los perros y fumarme un porro 🙄
+424. que ganas de tomarme una linea tamaño chile
+425. Que ganas de tomarme una linea de 30 cm loco󾌧󾬑
+426. En wikipedia figuran como costumbres frecuentes de los franceses: no bañarse y tomar merca.
+427. Armé un porro tan lindo, que me da pena quemarlo.
+428. Estoy a dos segundos de empezar a inyectarme heroína nada meás para que me tengan que meter a rehab y nadie me hable por lo menos, 3 meses. Nadie me hable, nadie espere nada de mi y nadie me nada. Bajo presión
+429. Suena a que voy a inyectarme heroína, ay. Obvio que no
+430. El presidente entrante de Corea del Sur promete tomar una línea dura en las escaladas militares de Corea del Norte. https://
+431. Debido a que su uso recreativo es legal desde el 2012, las tiendas habilitadas están regalando un porro a cualquier persona de 21 años o meás con el certificado de vacunación. https://
+432. No necesito éxtasis, ni coca, ni marihuana. Solo meúsica.
+433. tanto hablar de papa papa de aca papa de alla me dio ganas de tomarme una linea de merca  le quedo algo de la de garce?
+434. Hoy me di cuenta de que me puedo auto-ligar el brazo izquierdo por si me dan ganas de inyectarme heroína.
+435. unas ganas de inyectarme heroina
+436. Voy a inhalar una tacha y tomarme una línea de coca, porque quiero y puedo.
+437. El inglés es muy de tomar merca cada 3-4 meses
+438. Debió tomar una línea de colectivo que no debía
+439. la ansiedad que me da tomarme una linea de colectivo que nunca tome por favor
+440. yo estaba re anti pero no sé cómo terminé gritando los penales de hoy,, te amo [PERSONA] necesito éxtasis de mundiAL y felicidad
+441. Me voy a fumar un porro que va a tener que venir la grúa para levantarme después
+442. storytime ayer casi quemo mi casa a las 3 de la mañana fumándome un porro en fin al final solo se quemó la bajera de la cama y un trozo de colchón y lo arreglé cambiando la bajera y guardando la quemada en una maleta para que no la vieran mis padres
+443. estaba exquisita, fue como inyectarme heroína jaja
+444. yo creo que es meás saludable inyectarme heroína que esta merienda meía, dizque un peche y un vaso de cocacola
+445. Voy a inyectarme heroína así me olvido que me tengo que operar.
+446. me he fumado un porro antes de salir de la cama después de ayer haber acabado por los suelos
+447. Me fume un porro y quede ciego.
+448. Soñé que un chabon me perseguía para inyectarme heroína... Yo ya no sé
+449. Me invitas a un porro¿?
+450. Ojo. Os voy a demostrar una foto bailando la jota   no se rían. Siempre fui un porro para el baile. Lo raro es que llevara el paso correcto. Os pido eso sí no se la muestren al [PERSONA]
